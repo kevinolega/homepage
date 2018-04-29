@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: kevin olega's things
 permalink: /things
 author: Kevin Olega

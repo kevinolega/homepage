@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: kevin olega trivia
 permalink: /trivia
 author: Kevin Olega

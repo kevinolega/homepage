@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: kevin olega philosophy
 permalink: /philosophy
 author: Kevin Olega

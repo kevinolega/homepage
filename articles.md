@@ -38,7 +38,3 @@ Here are some of my favorites.
 *   [more on Call Center Training Tips](http://minimalchanges.com)
 
 If you'd like to read more you can visit the blogs directly. I hope you enjoy reading them as much as I enjoyed writing them.
-
-  
-
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://kevinolega.com/articles) | [books](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/)

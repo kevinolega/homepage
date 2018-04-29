@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: kevin olega fitness
 permalink: /fitness
 author: Kevin Olega
