@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: kevin olega's articles
 permalink: /articles
 author: Kevin Olega

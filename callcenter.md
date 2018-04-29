@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: about call center training tips
 permalink: /callcenter
 author: Kevin Olega

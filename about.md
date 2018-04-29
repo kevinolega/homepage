@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: about kevin olega
 permalink: /about/
 author: Kevin Olega
