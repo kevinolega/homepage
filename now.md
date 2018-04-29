@@ -1,6 +1,7 @@
 ---
 layout: default
 title: kevin olega now
+permalink: /now
 ---
 ### Work
 
