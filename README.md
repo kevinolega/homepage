@@ -1,12 +1,5 @@
-# homepage
-Kevin Olega's Homepage
+This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
 
-I'm new to git.
+### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-I'm working on migrating my websites to git.
-
-The homepage will be a basic html site with css.
-
-It'll be plain and minimalist. Nothing fancy.
-
-After, I'll remove all my wordpress sites and migrate to jekyll.
+Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)

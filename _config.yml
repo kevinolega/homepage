@@ -1,0 +1,13 @@
+# Site settings
+title: kevin olega
+tag_text: kevin olega
+description: kevin olega homepage
+url: "http://127.0.0.1:4000"
+baseurl: "/hometest"
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
