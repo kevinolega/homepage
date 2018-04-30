@@ -1,13 +1,11 @@
 ---
 layout: page
-title: about kevin olega
+title: kevin recommends
 permalink: /recommends
 author: Kevin Olega
 page.date: 2012-10-10 08:08:26
 published: true
 ---
-Kevin's Recommendations:
------------------
 
 People ask me a lot of questions about my recommendations.
 
@@ -15,11 +13,10 @@ So I'm compiling everything here.
 
 #### Current:
 
-**Current manga I'm reading:** Berserk
 **Current book I'm reading:** The Year of Living Biblically: One Man's Humble Quest to follow the Bible as Literally as Possible by A. J. Jacobs
 **Current playlist: [This is what I play in the morning.](https://open.spotify.com/user/spotifyusa/playlist/3uz1GV5nKYM4XPhBJagqgy)**
 **Exploring:**Stoicism and Alan Watts.
-**Meditation App:**Headspace, Buddhify and Tara Brach Podcast.
+**Meditation Apps:**Headspace, Buddhify and Tara Brach Podcast.
 **Notes App:** Switching from Evernote to Apple Notes
 **Preferred Transportation:**Cycling or Uber
 **Preferred Journal App:**Day One and The Bullet Journal
@@ -51,6 +48,9 @@ I have a folding bike, a mountain bike and a fixed gear bike.
 
 **Lost in Space**. If you liked the movie you'll love this expanded ten episode series.
 **Bojack Horseman**
+
+#### Manga
+**Berserk**. A dark fantasy that follows the story of Guts, the black swordsman.
 
 
 Links
