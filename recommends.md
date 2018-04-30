@@ -47,6 +47,12 @@ Mnmlist by Leo Babauta, Exile Lifestyle by Colin Wright,and [Fuck Yes Saturday b
 
 I have a folding bike, a mountain bike and a fixed gear bike.
 
+#### TV Shows
+
+**Lost in Space**. If you liked the movie you'll love this expanded ten episode series.
+**Bojack Horseman**
+
+
 Links
 -----
 

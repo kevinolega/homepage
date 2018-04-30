@@ -3,27 +3,25 @@ layout: page
 title: kevin olega now
 permalink: /now
 ---
-### Work
+### work
 
 I work from [the Common Space](https://www.thecommonspace.ph) in Parañaque City, Philippines.
 
-I enable entrepreneurs and digital nomads to run their small business from their smartphone as I free them from their laptop and repetitive, time consuming tasks by managing their business and personal projects.
+I enable entrepreneurs to cut their work hours, by offloading their repetitive and time consuming tasks and personally managing their business and personal projects.
 
 I write articles for different fitness, productivity, education and creativity blogs.
 
 I'm currently not accepting work and business proposals. [Here's a picture of what my task list looks like right now.](https://photos.app.goo.gl/yjNUrU0n9nNWXYU03)
 
-### Projects
+### projects
 
 I'm currently exploring the creation and editing of videos. A sample will be available at [my call center tips job application website](http://callcentertrainingtips.com/basics).
 
 At the final stage of creating a website for [Teacher Barbara, a professional private filipino English tutor](http://philippinesprivateenglishtutors.com/).
 
-### Personal
+### personal
 
 I spend most of my free time cycling, [CrossFit](http://prcitycf.com/), blogging, [drawing](https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3) and tinkering with tech.
-
-I do my best to do a hundred burpees a day and work on my pull ups.
 
 I buy way more notebooks and pens than I should.
 
