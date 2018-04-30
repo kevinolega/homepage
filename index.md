@@ -5,7 +5,7 @@ started:    [minimal changes](http://minimalchanges.com)
 
 writing:    [call center training tips](http://callcentertrainingtips.com)
 
-exploring:  philippines
+exploring:  [philippines](http://philippineislandliving.com)
 
 twitter:    [kevinolega](https://twitter.com/kevinolega)
 
