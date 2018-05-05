@@ -55,4 +55,4 @@ The blog is currently down because I'm migrating out of Wordpress. Let me know i
 
   
 
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://kevinolega.com/articles) | [books](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/)
+### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://kevinolega.com/articles)

@@ -65,7 +65,7 @@ My Influences:
 *   [Exile Lifestyle by Colin Wright](http://exilelifestyle.com)
 *   [The Four Hour Blog by Tim Ferriss](http://fourhourworkweek.com/blog)
 *   [Seth's Blog](http://sethgodin.typepad.com/)
-*   [James Altutcher](http://jamesaltutcher.com)
+*   [James Altutcher](https://jamesaltucher.com/)
 *   [Tony Robbins](http://TonyRobbins.com)
 
 Technology:

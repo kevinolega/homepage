@@ -218,4 +218,4 @@ Notes
 
   
 
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://minimalchanges.com/archives) | [books](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/)
+### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://minimalchanges.com/) 
