@@ -29,12 +29,10 @@ Here are some of my favorites.
 
 **From Call Center Training Tips**
 
-*   [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers/)
+*   [Call Center Interview Questions and Suggested Answers](http://callcentertrainingtips.com/call-center-interview-questions-and-suggested-answers)
 *   [How to Write a Resume for Call Center Application](http://callcentertrainingtips.com/how-to-write-a-resume-for-call-center-application/)
-*   [How to Build a Resume From Scratch (No Work Experience)](http://callcentertrainingtips.com/how-to-build-a-resume-from-scratch-no-work-experience/)
-*   [Improve Conversational English Skills Fast with Five Tips](http://callcentertrainingtips.com/improve-conversational-english-skills-fast-with-five-tips/)
-*   [Ten Tips to Get Hired in a Call Center This Week](http://callcentertrainingtips.com/ten-tips-to-get-hired-in-a-call-center-this-week/)
-*   [Practical Call Center Job Hunting 101](http://callcentertrainingtips.com/books/practical-call-center-job-hunting-101/)
-*   [more on Call Center Training Tips](http://minimalchanges.com)
+*   [How to Build a Resume From Scratch (No Work Experience)](http://callcentertrainingtips.com/how-to-build-a-call-center-resume-from-scratch-no-work-experience/)
+*   [Improve Conversational English Skills Fast with Five Tips](http://callcentertrainingtips.com/english-tips/)
+*   [more on Call Center Training Tips](http://callcentertrainingtips.com)
 
 If you'd like to read more you can visit the blogs directly. I hope you enjoy reading them as much as I enjoyed writing them.

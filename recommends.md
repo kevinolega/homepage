@@ -64,7 +64,7 @@ My Influences:
 *   [ZenHabits Leo Babauta](http://zenhabits.net)
 *   [Exile Lifestyle by Colin Wright](http://exilelifestyle.com)
 *   [The Four Hour Blog by Tim Ferriss](http://fourhourworkweek.com/blog)
-*   [Seth's Blog](http://sethsblog.typepad.com)
+*   [Seth's Blog](http://sethgodin.typepad.com/)
 *   [James Altutcher](http://jamesaltutcher.com)
 *   [Tony Robbins](http://TonyRobbins.com)
 
@@ -86,14 +86,14 @@ Apps:
 
 Fun:
 
-*   [](http://theoatmeal.com)The Oatmeal
+*   [The Oatmeal](http://theoatmeal.com)
 *   [Mangareader.net](http://mangareader.net)
 *   [Yanjaa](http://yanjaa.com)
 
 Friends:
 
-*   [Sheenah Tan](http://sheenahtan.net)
-*   [Jonha Revesencio](http://ijustdid.org)
+
+
 *   [Eva Soquena](http://itsevamarie.blogspot.com)
 
 _Note: This list is not complete nor permanent. I adjust this list from time to time._
