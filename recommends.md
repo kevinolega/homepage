@@ -93,7 +93,6 @@ Fun:
 Friends:
 
 
-
 *   [Eva Soquena](http://itsevamarie.blogspot.com)
 
 _Note: This list is not complete nor permanent. I adjust this list from time to time._
