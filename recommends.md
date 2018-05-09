@@ -95,6 +95,43 @@ Friends:
 
 *   [Eva Soquena](http://itsevamarie.blogspot.com)
 
+Investments 2016
+
+Investments that changed my life and why.
+
+Items:
+ - Deuter Backpack | Good Back support feels comfortable.
+- Deuter travel pouch | Multi-role. Versatile daily travel bag.
+- Flashlight keychain | kickass useful at night.
+
+Clothing:
+- Gap Jeans | Best Jeans Ever
+- Merrell | Everyday shoes good for 2-3 years. 
+- Under Armour Gloves | Bike gloves and pull up gloves.
+- Jockey Boxers | Cheaper than under Armour but feels great.
+
+Tech:
+- iPad | Write like a laptop. Access to good quality software.
+- iPod Touch | Music Player, Podcast app, Quick notes and photos.
+- MacBook Pro | Best computer ever.
+- Apple Keyboard | Rapid input.
+- Hard Drive | Library of entertainment and education.
+
+Subscriptions:
+- Spotify | Any song, no downloading. 
+- Headspace | Clear mind. Razor sharp focus. 
+- Evernote Premium | Paperless. Search everything. Idea bucket for references ranging from articles, ebooks, business cards and photo notes.
+- BPI Accounts | Accept money from anywhere. Easy transfer. Access to index funds.
+
+Apps:
+- Nexus Money | smart decisions with my money.
+- Way of Life | best way to focus my day.
+- iAWriter | replaced my need for a word processor.
+- Day One | Clears my head of ideas. My real idea bucket.
+
+Notes:
+People look to me for recommendations. Here are the best that I've found and used extensively. 
+
 _Note: This list is not complete nor permanent. I adjust this list from time to time._
 
 updated: January 11, 2018
