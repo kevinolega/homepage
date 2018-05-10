@@ -9,7 +9,7 @@ I work from [the Common Space](https://www.thecommonspace.ph) in Parañaque City
 
 I enable entrepreneurs to cut their work hours, by offloading their repetitive and time consuming tasks and personally managing their business and personal projects.
 
-I write articles for different fitness, productivity, education and creativity blogs.
+I write articles for different fitness, productivity, education, financial and creativity blogs.
 
 I'm currently not accepting work and business proposals. [Here's a picture of what my task list looks like right now.](https://photos.app.goo.gl/yjNUrU0n9nNWXYU03)
 
@@ -17,7 +17,7 @@ I'm currently not accepting work and business proposals. [Here's a picture of wh
 
 I'm currently exploring the creation and editing of videos. A sample will be available at [my call center tips job application website](http://callcentertrainingtips.com/basics).
 
-At the final stage of creating a website for [Teacher Barbara, a professional private filipino English tutor](http://philippinesprivateenglishtutors.com/).
+At the final stage of creating a website for [Teacher Barbara, a professional private Filipino English tutor](http://philippinesprivateenglishtutors.com/).
 
 ### personal
 
@@ -31,6 +31,6 @@ I geek out on almost anything Japanese including anime, manga and jpop idols.
 
 This page is inspired by [Derek Sivers’ /now page](http://sivers.org/nowff) movement. Check it out at [nownownow.com](http://nownownow.com).
 
-updated: April 25, 2018
+updated: Friday, May 11, 2018
 
 [Stay in touch with me by joining my personal mailing list.](http://eepurl.com/oCUar)
