@@ -5,32 +5,48 @@ permalink: /now
 ---
 ### work
 
-I work from [the Common Space](https://www.thecommonspace.ph) in Parañaque City, Philippines.
+I do project management work for a US based web design firm.
 
-I enable entrepreneurs to cut their work hours, by offloading their repetitive and time consuming tasks and personally managing their business and personal projects.
+I'm currently operating from Manila, Quezon City and Parañaque City.
 
 I write articles for different fitness, productivity, education, financial and creativity blogs.
 
-I'm currently not accepting work and business proposals. [Here's a picture of what my task list looks like right now.](https://photos.app.goo.gl/yjNUrU0n9nNWXYU03)
+I'm currently not accepting work and business proposals. [Here's a picture that represents the number of commitments on my plate at the moment.][1]
 
 ### projects
 
-I'm currently exploring the creation and editing of videos. A sample will be available at [my call center tips job application website](http://callcentertrainingtips.com/basics).
+I write [job hunting tips for aspiring BPO workers][2] and occasionally teach English.
 
-At the final stage of creating a website for [Teacher Barbara, a professional private Filipino English tutor](http://philippinesprivateenglishtutors.com/).
+I'm trying to get to minimal by attempting to [sell all of my possessions on my online store][3].
 
 ### personal
 
-I spend most of my free time cycling, [CrossFit](http://prcitycf.com/), blogging, [drawing](https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3) and tinkering with tech.
+I'm preparing for a [local bike event][4] this November 2018.
+
+[I have a dog now][5] and I'm learning how to fit caring for my pet into my schedule.
+
+I spend most of my free time cycling, [CrossFit][6], blogging, [drawing][7] and tinkering with tech.
 
 I buy way more notebooks and pens than I should.
 
-I geek out on almost anything Japanese including anime, manga and jpop idols.
+I geek out on almost anything Japanese including anime, manga and J-pop idols.
 
-[I moved my recommendations to its own page.](http://kevinolega.com/recommends)
+[I moved my recommendations to its own page.][8]
 
-This page is inspired by [Derek Sivers’ /now page](http://sivers.org/nowff) movement. Check it out at [nownownow.com](http://nownownow.com).
+This page is inspired by [Derek Sivers’ /now page][9] movement. Check it out at [nownownow.com][10].
 
-updated: Friday, May 11, 2018
+updated: Saturday, August 11, 2018
 
-[Stay in touch with me by joining my personal mailing list.](http://eepurl.com/oCUar)
+[Stay in touch with me by joining my personal mailing list.][11]
+
+[1]:	https://photos.app.goo.gl/yjNUrU0n9nNWXYU03
+[2]:	http://callcentertrainingtips.com/start
+[3]:	https://ph.carousell.com/kevinolega/
+[4]:	http://www.sunlife.cycleph.com/
+[5]:	https://www.instagram.com/p/BmHdeaRAnMt/
+[6]:	http://prcitycf.com/
+[7]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
+[8]:	http://kevinolega.com/recommends
+[9]:	http://sivers.org/nowff
+[10]:	http://nownownow.com
+[11]:	http://eepurl.com/oCUar

@@ -14,7 +14,7 @@ So I'm compiling everything here.
 #### Current:
 
 **Current book I'm reading:** The Year of Living Biblically: One Man's Humble Quest to follow the Bible as Literally as Possible by A. J. Jacobs
-**Current playlist: [This is what I play in the morning.](https://open.spotify.com/user/spotifyusa/playlist/3uz1GV5nKYM4XPhBJagqgy)**
+**Current playlist: [This is what I play in the morning.][1]**
 **Exploring:**Stoicism and Alan Watts.
 **Meditation Apps:**Headspace, Buddhify and Tara Brach Podcast.
 **Notes App:** Switching from Evernote to Apple Notes
@@ -34,11 +34,11 @@ Out of Your Mind by Alan Watts, Some Thoughts about Relationships by Collin Wrig
 
 **What are your favorite podcasts?**
 
-[Let's know things by Colin Wright](http://letsknowthings.com/), The Tim Ferriss Show and Freakonomics.
+[Let's know things by Colin Wright][2], The Tim Ferriss Show and Freakonomics.
 
 **What are your favorite blogs?**
 
-Mnmlist by Leo Babauta, Exile Lifestyle by Colin Wright,and [Fuck Yes Saturday by Stephanie Lee](http://thefyslife.com/).
+Mnmlist by Leo Babauta, Exile Lifestyle by Colin Wright,and [Fuck Yes Saturday by Stephanie Lee][3].
 
 **What kind of bike do you own?**
 
@@ -54,24 +54,24 @@ I have a folding bike, a mountain bike and a fixed gear bike.
 
 
 Links
------
+---- 
 
 This is a page of links that I like. I visit some of them regularly because I learn a lot from them. Sometimes because I like the people behind the sites and articles.
 
 My Influences:
 
-*   [Lifehacker](http://lifehacker.com)
-*   [ZenHabits Leo Babauta](http://zenhabits.net)
-*   [Exile Lifestyle by Colin Wright](http://exilelifestyle.com)
-*   [The Four Hour Blog by Tim Ferriss](http://fourhourworkweek.com/blog)
-*   [Seth's Blog](http://sethgodin.typepad.com/)
-*   [James Altutcher](https://jamesaltucher.com/)
-*   [Tony Robbins](http://TonyRobbins.com)
+*   [Lifehacker][4]
+*   [ZenHabits Leo Babauta][5]
+*   [Exile Lifestyle by Colin Wright][6]
+*   [The Four Hour Blog by Tim Ferriss][7]
+*   [Seth's Blog][8]
+*   [James Altutcher][9]
+*   [Tony Robbins][10]
 
 Technology:
 
-*   [Codecademy](http://codecademy.com)
-*   [Udacity](http://udacity.com)
+*   [Codecademy][11]
+*   [Udacity][12]
 
 Apps:
 
@@ -86,14 +86,17 @@ Apps:
 
 Fun:
 
-*   [The Oatmeal](http://theoatmeal.com)
-*   [Mangareader.net](http://mangareader.net)
-*   [Yanjaa](http://yanjaa.com)
+*   [The Oatmeal][13]
+*   [Mangareader.net][14]
+*   [Yanjaa][15]
 
 Friends:
 
 
-*   [Eva Soquena](http://itsevamarie.blogspot.com)
+*   [Eva Soquena][16]
+
+Coworking space: [the Common Space][17] in Parañaque City, Philippines.
+
 
 Investments 2016
 
@@ -136,4 +139,23 @@ _Note: This list is not complete nor permanent. I adjust this list from time to 
 
 updated: January 11, 2018
 
-[Stay in touch with me by joining my personal mailing list.](http://eepurl.com/oCUar)
+[Stay in touch with me by joining my personal mailing list.][18]
+
+[1]:	https://open.spotify.com/user/spotifyusa/playlist/3uz1GV5nKYM4XPhBJagqgy
+[2]:	http://letsknowthings.com/
+[3]:	http://thefyslife.com/
+[4]:	http://lifehacker.com
+[5]:	http://zenhabits.net
+[6]:	http://exilelifestyle.com
+[7]:	http://fourhourworkweek.com/blog
+[8]:	http://sethgodin.typepad.com/
+[9]:	https://jamesaltucher.com/
+[10]:	http://TonyRobbins.com
+[11]:	http://codecademy.com
+[12]:	http://udacity.com
+[13]:	http://theoatmeal.com
+[14]:	http://mangareader.net
+[15]:	http://yanjaa.com
+[16]:	http://itsevamarie.blogspot.com
+[17]:	https://www.thecommonspace.ph
+[18]:	http://eepurl.com/oCUar
