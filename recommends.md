@@ -13,14 +13,39 @@ So I'm compiling everything here.
 
 #### Current:
 
-**Current book I'm reading:** The Year of Living Biblically: One Man's Humble Quest to follow the Bible as Literally as Possible by A. J. Jacobs
-**Current playlist: [This is what I play in the morning.][1]**
-**Exploring:**Stoicism and Alan Watts.
-**Meditation Apps:**Headspace, Buddhify and Tara Brach Podcast.
-**Notes App:** Switching from Evernote to Apple Notes
-**Preferred Transportation:**Cycling or Uber
-**Preferred Journal App:**Day One and The Bullet Journal
-**Preferred Fitness Program:**CrossFit
+**Current book I'm reading:** 
+
+The Year of Living Biblically: One Man's Humble Quest to follow the Bible as Literally as Possible by A. J. Jacobs
+
+**Playlist:** 
+
+- Upon Wakeup, [this is what I play in the morning.][1]
+- When working, I listen to [Tycho's Dive][2].
+- When working out, I listen to [this playlist][3].
+
+**Exploring:**
+
+Stoicism and Alan Watts.
+
+**Meditation Apps:**
+
+Headspace,  Buddhify, 10% Happier, Oak, and Tara Brach Podcast.
+
+**Notes App:** 
+
+Switching from Evernote to Apple Notes
+
+**Preferred Transportation:**
+
+Cycling or Uber. Grab has replaced Uber in the Philippines.
+
+**Preferred Journal App:**
+
+Day One and The Bullet Journal but I'm considering moving everything to Google Calendar.
+
+**Preferred Fitness Program:**
+
+CrossFit, but Calisthenics is cool too. The basics is enough though, push-ups, squats, burpees and pull-ups whenever possible. I'll need to get my jump-rope game upgraded.
 
 #### Questions
 
@@ -34,128 +59,135 @@ Out of Your Mind by Alan Watts, Some Thoughts about Relationships by Collin Wrig
 
 **What are your favorite podcasts?**
 
-[Let's know things by Colin Wright][2], The Tim Ferriss Show and Freakonomics.
+[Let's know things by Colin Wright][4], The Tim Ferriss Show, Hardcore History and Freakonomics.
 
 **What are your favorite blogs?**
 
-Mnmlist by Leo Babauta, Exile Lifestyle by Colin Wright,and [Fuck Yes Saturday by Stephanie Lee][3].
+Mnmlist by Leo Babauta, Exile Lifestyle by Colin Wright,and [Fuck Yes Saturday by Stephanie Lee][5].
 
 **What kind of bike do you own?**
 
-I have a folding bike, a mountain bike and a fixed gear bike.
+I have a folding bike, a mountain bike and a fixed gear bike. 
+
+The folding bike is my errand bike because it has a rear carrier.
+
+My mountain bike is a comfortable short distance bike.
+
+My fixed gear bike is my long distance race bike.
 
 #### TV Shows
 
 **Lost in Space**. If you liked the movie you'll love this expanded ten episode series.
-**Bojack Horseman**
+**Bojack Horseman**. Philosphical and funny.
+**Love Live: School Idol Project**. Inspirational, lots of stuff about Japanese culture and work ethic.
 
 #### Manga
 **Berserk**. A dark fantasy that follows the story of Guts, the black swordsman.
 
-
-Links
 ---- 
 
 This is a page of links that I like. I visit some of them regularly because I learn a lot from them. Sometimes because I like the people behind the sites and articles.
 
 My Influences:
 
-*   [Lifehacker][4]
-*   [ZenHabits Leo Babauta][5]
-*   [Exile Lifestyle by Colin Wright][6]
-*   [The Four Hour Blog by Tim Ferriss][7]
-*   [Seth's Blog][8]
-*   [James Altutcher][9]
-*   [Tony Robbins][10]
+*   [Lifehacker][6]
+*   [ZenHabits Leo Babauta][7]
+*   [Exile Lifestyle by Colin Wright][8]
+*   [The Four Hour Blog by Tim Ferriss][9]
+*   [Seth's Blog][10]
+*   [James Altutcher][11]
+*   [Tony Robbins][12]
 
 Technology:
 
-*   [Codecademy][11]
-*   [Udacity][12]
+*   [Codecademy][13]
+*   [Udacity][14]
 
 Apps:
 
 *   **Nexus Money**. I use this to log all my expenses and make smarter decisions with money.
-*   **Simple Note**. This is my priv
-*   **Day One**. I use this to journal ideas. I also use this as my private social network.
-*   **Evernote**. This app enables me to keep all my information searchable.
+*   **Simple Note**. This is my preferred note app.
+*   **Evernote**. This app enables me to keep all my information searchable. I'm migrating out of this app now because it has gotten slow and clunky.
 *   **Way of Life**. This app serves as a checklist of things that I need to do daily.
 *   **Audible**. Learning on the fly.
-*   **Kindle**
-*   **Podcasts**
+*   **Kindle**. This is where I buy most of my books now.
+*   **Podcasts**. I use the Google Podcasts app on Android and Spotify on my iPhone.
 
-Fun:
+**Fun:**
 
-*   [The Oatmeal][13]
-*   [Mangareader.net][14]
-*   [Yanjaa][15]
+*   [The Oatmeal][15]
+*   [Mangareader.net][16]
+*   [Yanjaa][17]
 
-Friends:
+**Friends:**
+
+- [Eva Soquena][18]
+
+**Coworking space:** 
+
+[The Common Space][19] in Parañaque City, Philippines.
 
 
-*   [Eva Soquena][16]
-
-Coworking space: [the Common Space][17] in Parañaque City, Philippines.
-
-
-Investments 2016
-
-Investments that changed my life and why.
+Small investments that changed my life and why.
 
 Items:
- - Deuter Backpack | Good Back support feels comfortable.
-- Deuter travel pouch | Multi-role. Versatile daily travel bag.
-- Flashlight keychain | kickass useful at night.
+ - **Timbuk2 Command**. Great messenger bag.
+- **Deuter Backpack**. Good Back support feels comfortable.
+- **Deuter travel pouch**. Multi-role. Versatile daily travel bag.
+- **Flashlight keychain**. kickass useful at night.
 
 Clothing:
-- Gap Jeans | Best Jeans Ever
-- Merrell | Everyday shoes good for 2-3 years. 
-- Under Armour Gloves | Bike gloves and pull up gloves.
-- Jockey Boxers | Cheaper than under Armour but feels great.
+- **Gap Jeans**. Best Jeans Ever
+- **Merrell Hiking Shoes and Running Shoes**. Everyday shoes good for 2-3 years. 
+- **Florsheim Boat Shoes**. Multi-role shoes. Can be used for formal, casual and even cycling. I got this pair from my dad and I've been using it regularly.
+- **Under Armour Gloves**. Bike gloves and pull up gloves. Eventually you won't need these.
+- **Jockey Boxers**. Cheaper than under Armour but feels great to wear.
 
 Tech:
-- iPad | Write like a laptop. Access to good quality software.
-- iPod Touch | Music Player, Podcast app, Quick notes and photos.
-- MacBook Pro | Best computer ever.
-- Apple Keyboard | Rapid input.
+- **iPad Mini**. Write like a laptop. Access to good quality software.
+- **iPod Touch**. Music Player, Podcast app, Quick notes and photos.
+- **MacBook Pro**. Best computer ever.
+- **Apple Keyboard**. Rapid input.
 - Hard Drive | Library of entertainment and education.
 
 Subscriptions:
-- Spotify | Any song, no downloading. 
-- Headspace | Clear mind. Razor sharp focus. 
-- Evernote Premium | Paperless. Search everything. Idea bucket for references ranging from articles, ebooks, business cards and photo notes.
-- BPI Accounts | Accept money from anywhere. Easy transfer. Access to index funds.
+- **Spotify**. Any song, no downloading. 
+- **Headspace**. Clear mind. Razor sharp focus. 
+- **Evernote Premium**. Paperless. Search everything. Idea bucket for references ranging from articles, ebooks, business cards and photo notes.
+- **BPI Accounts**. | Accept money from anywhere. Easy transfer. Access to index funds.
 
 Apps:
-- Nexus Money | smart decisions with my money.
-- Way of Life | best way to focus my day.
-- iAWriter | replaced my need for a word processor.
-- Day One | Clears my head of ideas. My real idea bucket.
+- **Nexus Money**. smart decisions with my money.
+- **Way of Life**. best way to focus my day.
+- **iAWriter**.  replaced my need for a word processor on my iPhone.
+- **Day One** Clears my head of ideas. My real idea bucket.
 
 Notes:
 People look to me for recommendations. Here are the best that I've found and used extensively. 
 
 _Note: This list is not complete nor permanent. I adjust this list from time to time._
 
-updated: January 11, 2018
+updated: Thursday, August 23, 2018
 
-[Stay in touch with me by joining my personal mailing list.][18]
+[Stay in touch with me by joining my personal mailing list.][20]
 
 [1]:	https://open.spotify.com/user/spotifyusa/playlist/3uz1GV5nKYM4XPhBJagqgy
-[2]:	http://letsknowthings.com/
-[3]:	http://thefyslife.com/
-[4]:	http://lifehacker.com
-[5]:	http://zenhabits.net
-[6]:	http://exilelifestyle.com
-[7]:	http://fourhourworkweek.com/blog
-[8]:	http://sethgodin.typepad.com/
-[9]:	https://jamesaltucher.com/
-[10]:	http://TonyRobbins.com
-[11]:	http://codecademy.com
-[12]:	http://udacity.com
-[13]:	http://theoatmeal.com
-[14]:	http://mangareader.net
-[15]:	http://yanjaa.com
-[16]:	http://itsevamarie.blogspot.com
-[17]:	https://www.thecommonspace.ph
-[18]:	http://eepurl.com/oCUar
+[2]:	https://open.spotify.com/album/7xmuaP4wdzra1MaQizHioZ?si=q5SE7GEvRU6qBzhKnN8EdA
+[3]:	https://open.spotify.com/user/12147856240/playlist/64FFgiVt8xK9g2CXA62Swm?si=pW2bXVi1R5yqzvmfXGrDGw
+[4]:	http://letsknowthings.com/
+[5]:	http://thefyslife.com/
+[6]:	http://lifehacker.com
+[7]:	http://zenhabits.net
+[8]:	http://exilelifestyle.com
+[9]:	http://fourhourworkweek.com/blog
+[10]:	http://sethgodin.typepad.com/
+[11]:	https://jamesaltucher.com/
+[12]:	http://TonyRobbins.com
+[13]:	http://codecademy.com
+[14]:	http://udacity.com
+[15]:	http://theoatmeal.com
+[16]:	http://mangareader.net
+[17]:	http://yanjaa.com
+[18]:	http://itsevamarie.blogspot.com
+[19]:	https://www.thecommonspace.ph
+[20]:	http://eepurl.com/oCUar
