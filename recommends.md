@@ -11,6 +11,10 @@ People ask me a lot of questions about my recommendations.
 
 So I'm compiling everything here.
 
+Here are the best that I've found and have used extensively. 
+
+_Note: This list is not complete nor permanent. I adjust this list from time to time._
+
 #### Current:
 
 **Current book I'm reading:** 
@@ -77,9 +81,9 @@ My fixed gear bike is my long distance race bike.
 
 #### TV Shows
 
-**Lost in Space**. If you liked the movie you'll love this expanded ten episode series.
-**Bojack Horseman**. Philosphical and funny.
-**Love Live: School Idol Project**. Inspirational, lots of stuff about Japanese culture and work ethic.
+- **Lost in Space**. If you liked the movie you'll love this expanded ten episode series.
+- **Bojack Horseman**. Philosphical and funny.
+- **Love Live: School Idol Project**. Inspirational, lots of stuff about Japanese culture and work ethic.
 
 #### Manga
 **Berserk**. A dark fantasy that follows the story of Guts, the black swordsman.
@@ -148,13 +152,13 @@ Tech:
 - **iPod Touch**. Music Player, Podcast app, Quick notes and photos.
 - **MacBook Pro**. Best computer ever.
 - **Apple Keyboard**. Rapid input.
-- Hard Drive | Library of entertainment and education.
+- **Hard Drive.** Library of entertainment and education.
 
 Subscriptions:
 - **Spotify**. Any song, no downloading. 
 - **Headspace**. Clear mind. Razor sharp focus. 
 - **Evernote Premium**. Paperless. Search everything. Idea bucket for references ranging from articles, ebooks, business cards and photo notes.
-- **BPI Accounts**. | Accept money from anywhere. Easy transfer. Access to index funds.
+- **BPI Accounts**. Accept money from anywhere. Easy transfer. Access to index funds.
 
 Apps:
 - **Nexus Money**. smart decisions with my money.
@@ -162,10 +166,7 @@ Apps:
 - **iAWriter**.  replaced my need for a word processor on my iPhone.
 - **Day One** Clears my head of ideas. My real idea bucket.
 
-Notes:
-People look to me for recommendations. Here are the best that I've found and used extensively. 
 
-_Note: This list is not complete nor permanent. I adjust this list from time to time._
 
 updated: Thursday, August 23, 2018
 
