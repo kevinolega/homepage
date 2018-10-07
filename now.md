@@ -5,9 +5,11 @@ permalink: /now
 ---
 ### work
 
-I do project management for a US-based web design firm.
+I do project management for a US-based web design firm and a career transition consulting business.
 
-I operate from Manila, Quezon City and Parañaque City.
+I also work part time for a [local CrossFit gym](http://prcitycf.com/).
+
+I operate from Quezon City and Parañaque City.
 
 I write articles for different fitness, productivity, education, financial and creativity blogs.
 
@@ -29,13 +31,28 @@ I'm preparing for a [local bike event][5] this November 2018.
 
 I spend most of my free time cycling, [CrossFit][7], [blogging][8], [drawing][9] and learning how to make meditation a daily practice.
 
+I'm currently experimenting with the [Carnivore Diet](http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/) My first attempt was the 15th of September and for a couple of weeks I've been replacing rice, sugar, other carbs as well as any vegetable based foods with eggs, canned tuna, corned beef, as well as boiled or microwaved ground or sliced beef. 
+
+Every now and then, because I hate it when food goes to waste, I end up eating what is offered to me. If that meal includes, rice, bread, pasta or potatoes, even if that breaks my diet for the week and I get diarrhea, whenever I transition from a "meat only diet" to a "carb-based diet", I eat the food that is given to me.
+
+I'm happy that despite not being able to fully follow the carnivore diet seven days a week, because I have failed one or two days, and had to restart, the experiment has helped me avoid eating the usual 18 cups of rice a week that I am expected to consume while on the Standard Filipino Diet and I have lost the usual bloat in my belly.
+
+Unfortunately, I went out with a friend October 7 to my favorite Japanese Restaurant and I had a chicken curry rice meal, four pieces of tuna sushi roll and Inari (sweet sushi rice desert) and a few hours later, I began to feel like I am being food poisoned. 
+
+That being said, I'll be declining most offers for food that are not in my food intake list moving forward.
+
+As of October 8, I have updated my food intake to just:
+450 grams of boiled, stir-fried or Microwaved, beef, lamb, chicken and seafood.
+
+I'll begin to post my progress here.
+
 I geek out on almost anything Japanese including anime, manga and J-pop idols.
 
 [I moved my recommendations to its own page.][10]
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-updated: Friday, August 24, 2018
+updated: Monday, October 8, 2018
 
 [Stay in touch with me by joining my personal mailing list.][13]
 
