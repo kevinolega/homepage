@@ -31,20 +31,7 @@ I'm preparing for a [local bike event][5] this November 2018.
 
 I spend most of my free time cycling, [CrossFit][7], [blogging][8], [drawing][9] and learning how to make meditation a daily practice.
 
-I'm currently experimenting with the [Carnivore Diet](http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/) My first attempt was the 15th of September and for a couple of weeks I've been replacing rice, sugar, other carbs as well as any vegetable based foods with eggs, canned tuna, corned beef, as well as boiled or microwaved ground or sliced beef. 
-
-Every now and then, because I hate it when food goes to waste, I end up eating what is offered to me. If that meal includes, rice, bread, pasta or potatoes, even if that breaks my diet for the week and I get diarrhea, whenever I transition from a "meat only diet" to a "carb-based diet", I eat the food that is given to me.
-
-I'm happy that despite not being able to fully follow the carnivore diet seven days a week, because I have failed one or two days, and had to restart, the experiment has helped me avoid eating the usual 18 cups of rice a week that I am expected to consume while on the Standard Filipino Diet and I have lost the usual bloat in my belly.
-
-Unfortunately, I went out with a friend October 7 to my favorite Japanese Restaurant and I had a chicken curry rice meal, four pieces of tuna sushi roll and Inari (sweet sushi rice desert) and a few hours later, I began to feel like I am being food poisoned. 
-
-That being said, I'll be declining most offers for food that are not in my food intake list moving forward.
-
-As of October 8, I have updated my food intake to just:
-450 grams of boiled, stir-fried or Microwaved, beef, lamb, chicken and seafood.
-
-I'll begin to post my progress here.
+I'm currently experimenting with the [Carnivore Diet](http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/) and only eat beef, lamb, chicken and seafood between September 15 and December 15, 2018.
 
 I geek out on almost anything Japanese including anime, manga and J-pop idols.
 
