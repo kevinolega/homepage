@@ -25,8 +25,6 @@ I'm rewriting my old posts on my [Minimal Changes blog][5] as a part of my life 
 
 ### personal
 
-I'm preparing for a [local bike event][6] this November 2018.
-
 [I have a dog now][7] and I'm learning how to fit caring for my pet into my schedule.
 
 I spend most of my free time cycling, [CrossFit][8], [blogging][9], [drawing][10] and learning how to make meditation a daily practice.
@@ -48,7 +46,6 @@ updated: Monday, November 11, 2018
 [3]:	http://callcentertrainingtips.com/start
 [4]:	https://ph.carousell.com/kevinolega/
 [5]:	http://minimalchanges.com/
-[6]:	http://www.sunlife.cycleph.com/
 [7]:	https://www.instagram.com/p/BmHdeaRAnMt/
 [8]:	http://prcitycf.com/
 [9]:	http://minimalchanges.com
