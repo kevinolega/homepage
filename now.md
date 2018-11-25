@@ -27,7 +27,7 @@ I'm rewriting my old posts on my [Minimal Changes blog][5] as a part of my life 
 
 [I have a dog now][7] and I'm learning how to fit caring for my pet into my schedule.
 
-I spend most of my free time cycling, [CrossFit][8], [blogging][9], [drawing][10] and learning how to make meditation a daily practice.
+I spend most of my free time [cycling](https://www.instagram.com/p/BdlqCqkHHJ8/), [CrossFit][8], [blogging][9], [drawing][10] and learning how to make meditation a daily practice.
 
 I'm currently experimenting with the [Carnivore Diet][11] and only eat beef, lamb, pork, chicken and seafood between September 15 and December 15, 2018.
 
@@ -46,7 +46,7 @@ updated: Monday, November 11, 2018
 [3]:	http://callcentertrainingtips.com/start
 [4]:	https://ph.carousell.com/kevinolega/
 [5]:	http://minimalchanges.com/
-[7]:	https://www.instagram.com/p/BmHdeaRAnMt/
+[7]:	https://www.instagram.com/p/BqF7xlBlPSm/
 [8]:	http://prcitycf.com/
 [9]:	http://minimalchanges.com
 [10]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
