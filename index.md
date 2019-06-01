@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Explore the homepage of Kevin Olega. Portfolio of projects and all sorts of fun information.
 ---
 started:    [minimal changes](http://minimalchanges.com)
 

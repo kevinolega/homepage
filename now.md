@@ -1,6 +1,7 @@
 ---
 layout: page
 title: kevin olega now
+description: See what exactly Kevin is doing now. This page gets updated regularly.
 permalink: /now
 ---
 ### work
@@ -17,7 +18,7 @@ I write [career advice for aspiring BPO workers][3] as part of my community serv
 
 I'm attempting to declutter and [sell all of my possessions on my online store][4].
 
-A few weeks ago, I bought access to a bunch of online courses including copywriting, email marketing, drawing and webdesign.
+A few weeks ago, I bought access to a bunch of books and online courses including copywriting, email marketing, drawing and web design.
 
 ### personal
 
