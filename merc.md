@@ -17,7 +17,7 @@ My skype ID is kevinolega.
 
 ### past work
 
-I also have the following experiences, which may be relevant to what you are looking for:
+I also have the following experience, which may be relevant to what you are looking for:
 
 - I worked as a virtual assistant and QA before taking over a communications and project manager role.
 - I worked as a ghost writer and blogger on different topics that include personal development, tech, productivity and lifehacks as well as health and fitness topics.
