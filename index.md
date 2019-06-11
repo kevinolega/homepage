@@ -1,7 +1,9 @@
 ---
 layout: default
-description: Explore the homepage of Kevin Olega. Portfolio of projects and all sorts of fun information.
+description: Explore the homepage of Kevin Olega. Portfolio of personal and work projects and all sorts of fun information.
 ---
+implementing:    [business ideas](http://businessideasph.com)
+
 started:    [minimal changes](http://minimalchanges.com)
 
 writing:    [call center training tips](http://callcentertrainingtips.com)

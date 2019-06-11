@@ -20,7 +20,7 @@ My skype ID is kevinolega.
 I also have the following experience, which may be relevant to what you are looking for:
 
 - I worked as a virtual assistant and QA before taking over a communications and project manager role.
-- I worked as a ghost writer and blogger on different topics that include personal development, tech, productivity and lifehacks as well as health and fitness topics.
+- I worked as a ghost writer and blogger on different topics that include personal development, finance, education, tech, productivity, creativity and lifehacks as well as health and fitness topics.
 - I worked as a customer service and tech support representative for one of the biggest service providers in the United States, and have won many awards for my outstanding performance.
 - I worked as a B2B and B2C sales representative in outsourcing, web development, real estate, financial services, and firearms.
 
