@@ -9,6 +9,8 @@ If you have any further project ideas or tasks in the future, I have included a 
 
 [Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing)
 
+[Here is a screenshot of the specifications of my computer]({{ site.url }}/images/Macbook Air Specifications.png).
+
 The best way to evaluate me for the position is by talking to me. 
 
 My skype ID is kevinolega.
