@@ -32,16 +32,16 @@ I geek out on pens, bikes, tech, fitness, philosophy, and almost anything Japane
 
 This page is inspired by [Derek Sivers’ /now page][12] movement. Check it out at [nownownow.com][13].
 
-updated: Saturday, June 01, 2019
+updated: Monday, June 17, 2019
 
 [Stay in touch with me by joining my personal mailing list.][15]
 
 [1]:	https://photos.app.goo.gl/yjNUrU0n9nNWXYU03
-[2]:	https://www.thecommonspace.ph
+[2]:	https://philippineislandliving.com/common-space/
 [3]:	http://callcentertrainingtips.com/start
 [4]:	https://ph.carousell.com/kevinolega/
 [5]:	https://www.instagram.com/p/BqF7xlBlPSm/
-[8]:	http://prcitycf.com/
+[8]:	https://philippineislandliving.com/prcity/
 [9]:	http://minimalchanges.com
 [10]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
 [11]:	http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/
