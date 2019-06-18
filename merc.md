@@ -6,7 +6,7 @@ permalink: /xp
 ---
 If you have any further project ideas or tasks in the future, I have included a summary of my information below.
 
-[Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing)
+[Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing).
 
 [Here is a screenshot of the specifications of my computer]({{ site.url }}/images/Macbook Air Specifications.png).
 
@@ -20,7 +20,7 @@ Alternatively, you can [schedule a call](https://calendly.com/kevinolega/30min).
 
 ### past work - short version
 
-I'm a [top rated Upwork Project Manager]({{ site.url }}/images/imageKevin Top Rated Upwork.png).
+I'm a [top rated Upwork Project Manager]({{ site.url }}/images/Kevin Top Rated Upwork.png).
 
 I also have the following experience, which may be relevant to what you are looking for:
 
