@@ -157,3 +157,13 @@ I propose that we begin with a range of 5-10 hours a week so you can try my serv
 [Top Rated Upwork Profile]({{ site.url }}/images/Kevin Upwork Profile.png).
 
 [Client Testimonials]({{ site.url }}/images/Upwork Testimonials.png).
+
+### what now?
+
+Like I said, the best way to evaluate me for the position is by talking to me. 
+
+My skype ID is kevinolega.
+
+[Click here to call me on Skype](skype:kevinolega?call)
+
+Alternatively, you can [schedule a call](https://calendly.com/kevinolega/30min).
