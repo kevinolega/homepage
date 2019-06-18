@@ -4,7 +4,6 @@ title: kevin olega's past work
 description: this is Kevin Olega's past work.
 permalink: /xp
 ---
-
 If you have any further project ideas or tasks in the future, I have included a summary of my information below.
 
 [Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing)
@@ -18,6 +17,8 @@ My skype ID is kevinolega.
 [Click here to call me on Skype](skype:kevinolega?call)
 
 ### past work - short version
+
+I'm a top rated Upwork Project Manager.
 
 I also have the following experience, which may be relevant to what you are looking for:
 
@@ -137,13 +138,13 @@ I can configure my system to run on triple monitor and increase my internet conn
 
 If you require a specific tool or software that I failed to include in my message, I can learn and master said tool within a day or two.
 
-## schedule
+### schedule
 
 I am committed to being able to provide the necessary support that your team needs so I will be logging in consistently at the agreed upon work hours. 
 
 I can adjust my schedule (currently 8am-6pm EST), terms and rates to match your requirements.
 
-## new projects
+### new projects
 
 When we work on a new project, I recommend that we begin with a small test task then you can proceed to hire me for more small assignments. 
 
