@@ -18,7 +18,7 @@ My skype ID is kevinolega.
 
 ### past work - short version
 
-I'm a top rated Upwork Project Manager.
+I'm a [top rated Upwork Project Manager]({{ site.url }}/images/imageKevin Top Rated Upwork.png).
 
 I also have the following experience, which may be relevant to what you are looking for:
 
@@ -152,3 +152,8 @@ We can expand the scope of my agreement if you are satisfied with my work.
 
 I propose that we begin with a range of 5-10 hours a week so you can try my services risk free. 
 
+### testimonials
+
+[Top Rated Upwork Profile]({{ site.url }}/images/Kevin Upwork Profile.png).
+
+[Client Testimonials]({{ site.url }}/images/Upwork Testimonials.png).
