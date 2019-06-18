@@ -16,6 +16,8 @@ My skype ID is kevinolega.
 
 [Click here to call me on Skype](skype:kevinolega?call)
 
+Alternatively, you can [schedule a call](https://calendly.com/kevinolega/30min).
+
 ### past work - short version
 
 I'm a [top rated Upwork Project Manager]({{ site.url }}/images/imageKevin Top Rated Upwork.png).
