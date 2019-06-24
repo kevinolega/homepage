@@ -16,7 +16,7 @@ My skype ID is kevinolega.
 
 [Click here to call me on Skype](skype:kevinolega?call)
 
-Alternatively, you can [schedule a call](https://calendly.com/kevinolega/30min).
+Alternatively, you can [schedule a call](https://calendly.com/kevinolegaservices/60min).
 
 ### past work - short version
 
@@ -168,4 +168,4 @@ My skype ID is kevinolega.
 
 [Click here to call me on Skype](skype:kevinolega?call)
 
-Alternatively, you can [schedule a call](https://calendly.com/kevinolega/30min).
+Alternatively, you can [schedule a call](https://calendly.com/kevinolegaservices/60min).
