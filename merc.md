@@ -4,12 +4,6 @@ title: kevin olega's past work
 description: this is Kevin Olega's past work.
 permalink: /xp
 ---
-If you have any further project ideas or tasks in the future, I have included a summary of my information below.
-
-[Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing).
-
-[Here is a screenshot of the specifications of my computer]({{ site.url }}/images/Macbook Air Specifications.png).
-
 The best way to evaluate me for the position is by talking to me. 
 
 Here's my available schedule.
@@ -24,6 +18,7 @@ My skype ID is kevinolega.
 
 [Click here to call me on Skype](skype:kevinolega?call)
 
+If you have any further project ideas or tasks in the future, I have included a summary of my information below.
 
 ### past work - short version
 
@@ -37,7 +32,6 @@ I also have the following experience, which may be relevant to what you are look
 - I worked as a B2B and B2C sales representative in outsourcing, web development, real estate, financial services, and firearms.
 
 Thank you for reading this far.
-
 
 ### skills
 
@@ -76,6 +70,8 @@ I have an eye for detail and I inspect websites, apps, content or whatever outpu
 
 - I am an experienced writer so I am confident that I will be able to convey clear instructions to the team and use screenshots and screencasts whenever necessary. 
 - My writing skills have been useful in maximizing the output of technical teams who have members with limited communication skills.
+
+[Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing).
 
 ### tools
 
@@ -142,6 +138,8 @@ Here are the tools and technology that I am using or have used in the past:
 - IFTTT
 
 As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone and Android for work and will be able to assist your team using these systems. 
+
+[Here is a screenshot of the specifications of my work computer]({{ site.url }}/images/Macbook Air Specifications.png).
 
 I can configure my system to run on triple monitor and increase my internet connection to match your required specifications. 
 

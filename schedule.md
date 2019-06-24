@@ -4,33 +4,19 @@ title: kevin olega's schedule
 description: View is Kevin Olega's schedule.
 permalink: /schedule
 ---
-**monday**
+**monday**  I'm working. I say no to all invitations.
 
-I'm working. I say no to all invitations.
+**tuesday**  I'm working. I say no to all invitations.
 
-**tuesday**
+**wednesday**  I'm working but may be available in the afternoon.
 
-I'm working. I say no to all invitations.
+**thursday**  I'm running errands today but I may be open to a short meeting.
 
-**wednesday**
+**friday**  I am running errands today but may be open to a meeting within BF Parañaque or online.
 
-I'm working but may be available in the afternoon.
+**saturday**  Saturday is training day for me but may be available in the afternoon.
 
-**thursday**
-
-I'm running errands today but I may be open to a short meeting.
-
-**friday**
-
-I am running errands today but may be open to a meeting within BF Parañaque or online.
-
-**saturday**
-
-Saturday is training day for me bur I may be available in the afternoon.
-
-**sunday**
-
-I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
+**sunday**  I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
 
 <iframe src="https://calendly.com/kevinolega/30min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 
