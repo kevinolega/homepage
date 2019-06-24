@@ -11,16 +11,16 @@ I'm working. I say no to all invitations.
 I'm working. I say no to all invitations.
 
 **wednesday**
-I'm working. I say no to all invitations.
+I'm working. I say no to all invitations in the morning but may be available in the afternoon.
 
 **thursday**
-I'm running errands today but I may be open to a short meeting. [Click here to check my calendar](https://calendly.com/kevinolega/30min).
+I'm running errands today but I may be open to a short meeting.
 
 **friday**
-I'm working. I say no to most meetings. I am also running errands today but may be open to a meeting within BF Parañaque or online. [Click here to check my calendar](https://calendly.com/kevinolega/30min).
+I'm working. I say no to most meetings. I am also running errands today but may be open to a meeting within BF Parañaque or online.
 
 **saturday**
-Saturday is training day for me. [I may be available in the afternoon](https://calendly.com/kevinolega). At six pm, I'm probably training at [PR City CrossFit](http://philippineislandliving.com/prcity) then I leave to hang out with my dog.
+Saturday is training day for me. I may be available in the afternoon. At six pm, I'm probably training at [PR City CrossFit](http://philippineislandliving.com/prcity) then I leave to hang out with my dog.
 
 **sunday**
 I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
