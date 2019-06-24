@@ -12,11 +12,19 @@ If you have any further project ideas or tasks in the future, I have included a 
 
 The best way to evaluate me for the position is by talking to me. 
 
+Here's my available schedule.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/kevinolegaservices/60min" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
+
+[You can click this link to schedule a call](https://calendly.com/kevinolegaservices/60min).
+
 My skype ID is kevinolega.
 
 [Click here to call me on Skype](skype:kevinolega?call)
 
-Alternatively, you can [schedule a call](https://calendly.com/kevinolegaservices/60min).
 
 ### past work - short version
 
