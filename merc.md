@@ -174,7 +174,7 @@ Like I said, the best way to evaluate me for the position is by talking to me.
 Here's my available schedule:
 
 <!-- Calendly inline widget begin -->
-<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="650" scrolling="no" frameborder="0"></iframe>
 <!-- Calendly inline widget end -->
 
 [Click here to schedule a call](https://calendly.com/kevinolegaservices/60min).
