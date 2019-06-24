@@ -25,7 +25,7 @@ Saturday is training day for me. [I may be available in the afternoon](https://c
 **sunday**
 I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
 
-<iframe src="https://calendly.com/kevinolega/30min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
+<iframe src="https://calendly.com/kevinolega/30min" width="100%" height="650" scrolling="no" frameborder="0"></iframe>
 
 **how to reach me:**
 
