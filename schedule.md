@@ -5,24 +5,31 @@ description: View is Kevin Olega's schedule.
 permalink: /schedule
 ---
 **monday**
+
 I'm working. I say no to all invitations.
 
 **tuesday**
+
 I'm working. I say no to all invitations.
 
 **wednesday**
-I'm working. I say no to all invitations in the morning but may be available in the afternoon.
+
+I'm working but may be available in the afternoon.
 
 **thursday**
+
 I'm running errands today but I may be open to a short meeting.
 
 **friday**
-I'm working. I say no to most meetings. I am also running errands today but may be open to a meeting within BF Parañaque or online.
+
+I am running errands today but may be open to a meeting within BF Parañaque or online.
 
 **saturday**
-Saturday is training day for me. I may be available in the afternoon. At six pm, I'm probably training at [PR City CrossFit](http://philippineislandliving.com/prcity) then I leave to hang out with my dog.
+
+Saturday is training day for me bur I may be available in the afternoon.
 
 **sunday**
+
 I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
 
 <iframe src="https://calendly.com/kevinolega/30min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
