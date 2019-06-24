@@ -15,8 +15,7 @@ The best way to evaluate me for the position is by talking to me.
 Here's my available schedule.
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/kevinolegaservices/60min" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 <!-- Calendly inline widget end -->
 
 [You can click this link to schedule a call](https://calendly.com/kevinolegaservices/60min).
@@ -175,8 +174,7 @@ Like I said, the best way to evaluate me for the position is by talking to me.
 Here's my available schedule:
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/kevinolegaservices/60min" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 <!-- Calendly inline widget end -->
 
 [Click here to schedule a call](https://calendly.com/kevinolegaservices/60min).
