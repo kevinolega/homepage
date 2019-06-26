@@ -36,7 +36,7 @@ updated: Monday, June 17, 2019
 
 [Stay in touch with me by joining my personal mailing list.][15]
 
-[1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg)
+[1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg
 [2]:	https://philippineislandliving.com/common-space/
 [3]:	http://callcentertrainingtips.com/start
 [4]:	https://ph.carousell.com/kevinolega/
