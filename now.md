@@ -10,41 +10,43 @@ I manage projects for a US-based web design firm and a career transition consult
 
 I'm currently not accepting additional work and business proposals. [This picture represents my tasks and commitments at the moment.][1]
 
-I operate from [The Common Space][2] Parañaque City.
+I operate from Parañaque City.
 
 ### projects
 
-I write [career advice for aspiring BPO workers][3] as part of my community service.
+I write [career advice for BPO workers][2] as part of my community service.
 
-I'm attempting to declutter and [sell all of my possessions on my online store][4].
+I'm attempting to declutter and [sell all of my possessions on my online store][3].
 
-A few weeks ago, I bought access to a bunch of books and online courses including copywriting, email marketing, drawing and web design.
+A few weeks ago, I bought access to a bunch of books and online courses including copywriting, email marketing, drawing and web design. I'm trying to study all the material.
 
 ### personal
 
-[I have a dog now][5] and I'm learning how to fit caring for my pet into my schedule.
+[I have a dog now][4] and I'm learning how to fit caring for my pet into my schedule.
 
-I spend most of my free time [cycling](https://www.instagram.com/p/BdlqCqkHHJ8/), [CrossFit][8], [blogging][9], [drawing][10] and learning how to make meditation a daily practice.
+I spend most of my free time [cycling][5], [CrossFit][6], [blogging][7], [drawing][8] and learning how to make meditation a daily practice.
 
-I'm trying to cut my carb and sugar intake and eat mostly a [Carnivore Diet][11] and only eat beef, lamb, pork, chicken and seafood.
+I'm trying to cut my carb and sugar intake and eat mostly a [Carnivore Diet][9] and only eat beef, lamb, pork, chicken and seafood.
 
 I geek out on pens, bikes, tech, fitness, philosophy, and almost anything Japanese including anime, manga and J-pop idols.
 
-This page is inspired by [Derek Sivers’ /now page][12] movement. Check it out at [nownownow.com][13].
+[Stay in touch with me by joining my personal mailing list.][10]
 
-updated: Monday, June 17, 2019
+This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-[Stay in touch with me by joining my personal mailing list.][15]
+updated: Friday, June 28, 2019
+
 
 [1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg
-[2]:	https://philippineislandliving.com/common-space/
-[3]:	http://callcentertrainingtips.com/start
-[4]:	https://ph.carousell.com/kevinolega/
-[5]:	https://www.instagram.com/p/BqF7xlBlPSm/
-[8]:	https://philippineislandliving.com/prcity/
-[9]:	http://minimalchanges.com
-[10]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
-[11]:	http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/
-[12]:	http://sivers.org/nowff
-[13]:	http://nownownow.com
-[15]:	http://eepurl.com/oCUar
+[2]:	http://callcentertrainingtips.com/fix
+[3]:	https://ph.carousell.com/kevinolega/
+[4]:	https://www.instagram.com/p/BqF7xlBlPSm/
+[5]:	https://www.instagram.com/p/BdlqCqkHHJ8/
+[6]:	https://philippineislandliving.com/prcity/
+[7]:	http://minimalchanges.com
+[8]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
+[9]:	http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/
+[10]:	http://eepurl.com/oCUar
+[11]:	http://sivers.org/nowff
+[12]:	http://nownownow.com
+
