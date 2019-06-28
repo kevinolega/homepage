@@ -6,7 +6,7 @@ implementing:    [business ideas](http://businessideasph.com)
 
 initiating:    [minimal changes](http://minimalchanges.com)
 
-writing:    [call center training tips](http://callcentertrainingtips.com)
+documenting:    [call center training tips](http://callcentertrainingtips.com)
 
 exploring:  [philippines](http://philippineislandliving.com)
 
