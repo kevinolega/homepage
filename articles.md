@@ -19,7 +19,7 @@ Here are some of my favorites.
 
 *   [Exactly one year or so later](http://minimalchanges.com/exactly-one-year-or-so-later)
 *   [How I save money](http://minimalchanges.com/how-i-save-money)
-*   [How typhoon Ondoy made me a minimalist](http://minimalchanges.com/how-typhoon-ondoy-made-me-a-minimalist)
+*   [How typhoon Ondoy made me a minimalist](http://philippineislandliving.com/how-typhoon-ondoy-made-me-a-minimalist)
 *   [Minimal Changes to achieving what matters most](http://minimalchanges.com/minimal-changes-to-achieving-what-matters-most)
 *   [How to be Awesomely Confident (for shy people only)](http://minimalchanges.com/how-to-be-awesomely-confident-for-shy-people-only)
 *   [You are Royalty...Act Like it](http://minimalchanges.com/you-are-royalty-act-like-it)

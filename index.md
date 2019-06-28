@@ -4,7 +4,7 @@ description: Explore the homepage of Kevin Olega. Portfolio of personal and work
 ---
 implementing:    [business ideas](http://businessideasph.com)
 
-started:    [minimal changes](http://minimalchanges.com)
+initiating:    [minimal changes](http://minimalchanges.com)
 
 writing:    [call center training tips](http://callcentertrainingtips.com)
 

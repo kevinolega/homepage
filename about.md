@@ -16,7 +16,7 @@ I worked in sales and marketing.
 
 I have a mix of different skills and interests.
 
-In 2010, I started a blog named [minimal changes](http://minimalchanges.com) about my personal experiments to develop free time, spare cash, a clear head and lighter living by applying minimalist lifestyle expriments and by testing counter intuitive strategies on myself. It's been a fun ride.
+In 2010, I started a website titled [minimal changes](http://minimalchanges.com) about my personal experiments to develop free time, spare cash, a clear head and lighter living by applying minimalist lifestyle expriments and by testing counter intuitive strategies on myself. It's been a fun ride.
 
 I'm from the Philippines and I enjoy travel and trying out food. Occassionaly, I take lots of pictures. I started a website named [Philippine Island Living](http://philippineislandliving.com) to share tips and stories about my adventures and the things I enjoy about life in the Philippines.
 
@@ -42,7 +42,7 @@ I previously worked as an assistant and a ghostwriter.
 *   I wrote articles related to fitness, health and personal development.
 *   I wrote articles for [CreativeSomething.net](http://creativesomething.net)
 *   I wrote articles and reviews for several CrossFit websites and products.
-*   I wrote for several education blogs including an international school and their homestudy program.
+*   I wrote for several education websites including an international school and their homestudy program.
 
 In 2016, I left my call center job to take care of my health and had become a freelancer.
 
@@ -70,7 +70,7 @@ And taking anything too seriously often ends in failure.
 *   I do my best to live like a minimalist, owning less and making sure that each item that I own fits my strategy and prefered lifestyle.
 *   Whenever I can, I cook my own food.
 *   I take my [folding bike](http://philippineislandliving.com/giant-fd806-folding-bike-review/) around the city or my mountain bike for long rides out of town. I am also assembled a [fixed gear bike](https://philippineislandliving.com/fixed-gear/).
-*   I share my thoughts and things I learned on [my personal blog](http://minimalchanges.com).
+*   I share my thoughts and things I learned on [my personal website](http://minimalchanges.com).
 *   I’m also learning how to draw. I post my progress on [my instagram](http://instagram.com/kevinolega/).
 *   I'm working on digitizing all my papers, automating and outsourcing time consuming tasks so I can focus on things that I enjoy.
 

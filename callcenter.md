@@ -42,16 +42,16 @@ In the process we helped a few thousand people land call center jobs. Notable ac
 
 Over time as people asked for my help, I spent a lot of drinking sessions coaching strangers on how to get hired in a call center.
 
-To decrease the time I spend coaching and extend my help to others, I encoded my notes into a blog and eventually, wrote a book on the topic.
+To decrease the time I spend coaching and extend my help to others, I encoded my notes into a website and eventually, wrote a book on the topic.
 
 My efforts resulted in:
 
-*   a blog with 3,000 monthly visitors.
-*   A facebook page with 3,400 followers.
+*   a website with 3,000 monthly visitors.
+*   A facebook page with 16,400 followers.
 *   An email list with a thousand subscribers.
 *   Hundreds of heartfelt emails and messages from the people I've inspired.
 
-The blog is currently down because I'm migrating out of Wordpress. Let me know if you need help and I'll send you some articles.
+The website is currently down because I'm migrating out of Wordpress. Let me know if you need help and I'll send you some articles.
 
   
 
