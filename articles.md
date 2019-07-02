@@ -6,7 +6,6 @@ author: Kevin Olega
 page.date: 2012-10-10 08:08:26
 published: true
 ---
-   
 
 Articles
 --------
