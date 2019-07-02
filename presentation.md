@@ -5,9 +5,9 @@ description: this is Kevin Olega's past work.
 permalink: /pres
 ---
 
-Hi there!
+### Hi there! I'm Kevin!
 
-![IMAGE TEXT]({{ site.url }}/images/Kevin.jpg).
+![Kevin Photo]({{ site.url }}/images/Kevin.jpg).
 
 The best way to evaluate me for the position is by talking to me. 
 
@@ -83,7 +83,7 @@ I have an eye for detail and I inspect websites, apps, content or whatever outpu
 
 As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone and Android for work and will be able to assist your team using these systems. 
 
-## My Computer
+### My Computer
 
 ![Here is a screenshot of the specifications of my work computer]({{ site.url }}/images/Macbook Air Specifications.png).
 
@@ -104,6 +104,16 @@ When we work on a new project, I recommend that we begin with a small test task 
 We can expand the scope of my agreement if you are satisfied with my work. 
 
 I propose that we begin with a range of 5-10 hours a week so you can try my services risk free. 
+
+### What You Pay VS What You Get
+
+![Cost Benefit Comparrison]({{ site.url }}/images/Cost-Benefit.JPG).
+
+**$16/day** - go home an hour earlier or work a little easier.
+
+**$48/day** - get some things done, and big rocks off your plate.
+
+**$80/day** - transition from rat race worker to receiving managed income.
 
 ### testimonials
 
