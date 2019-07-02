@@ -1,8 +1,8 @@
 ---
 layout: page
-title: kevin olega's past work
+title: kevin olega's presentation
 description: this is Kevin Olega's past work.
-permalink: /presentation
+permalink: /pres
 ---
 
 Hi there!
