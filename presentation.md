@@ -4,6 +4,7 @@ title: kevin olega's past work
 description: this is Kevin Olega's past work.
 permalink: /presentation
 ---
+
 ![IMAGE TEXT]({{ site.url }}/images/Kevin.jpg).
 
 The best way to evaluate me for the position is by talking to me. 
