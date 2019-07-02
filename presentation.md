@@ -4,6 +4,7 @@ title: kevin olega's past work
 description: this is Kevin Olega's past work.
 permalink: /presentation
 ---
+
 Hi there!
 
 ![IMAGE TEXT]({{ site.url }}/images/Kevin.jpg).
@@ -79,73 +80,12 @@ I have an eye for detail and I inspect websites, apps, content or whatever outpu
 
 [Here’s a link to my resume](https://docs.google.com/document/d/1Uowjn4iQvjbfnAsWgnLl-uARdlA25UsqcZz6fNq0nLs/edit?usp=sharing).
 
-### tools
-
-Here are the tools and technology that I am using or have used in the past:
-
-**Project Management:**
-
-- Asana
-- Trello 
-- Basecamp 
-
-**Communication:**
-
-- Slack
-- Skype
-- Zoom
-
-**Email Marketing:**
-
-- Mailchimp
-- Aweber
-- Get Response
-- OctoMail
-
-**Customer Service and Tech Support Ticket Tools:**
-
-- ZenDesk
-- Freshdesk
-- HelpScout
-- CustomerHub
-
-**Transcription:**
-- Speechpad
-- Temi
-
-**Content Management:**
-
-- Wordpress
-- Kajabi
-- Squarespace
-
-**File Management:**
-- Dropbox
-- Google Drive
-
-**Code Repository:**
-
-- GitHub
-
-**Social Media:**
-
-- Facebook
-- Instagram
-- LinkedIn
-- YouTube
-
-**eCommerce:**
-
-- Shopify
-
-**Automation:**
-
-- Zapier
-- IFTTT
 
 As for my current work set-up, I am using an updated MacBook Pro, MacBook Air, iPhone and Android for work and will be able to assist your team using these systems. 
 
-[Here is a screenshot of the specifications of my work computer]({{ site.url }}/images/Macbook Air Specifications.png).
+## My Computer
+
+![Here is a screenshot of the specifications of my work computer]({{ site.url }}/images/Macbook Air Specifications.png).
 
 I can configure my system to run on triple monitor and increase my internet connection to match your required specifications. 
 
