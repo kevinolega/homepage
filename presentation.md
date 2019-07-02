@@ -4,9 +4,11 @@ title: kevin olega's past work
 description: this is Kevin Olega's past work.
 permalink: /presentation
 ---
+![IMAGE TEXT]({{ site.url }}/images/Kevin.jpg).
+
 The best way to evaluate me for the position is by talking to me. 
 
-Here's my available schedule.
+### Here's my available schedule:
 
 <!-- Calendly inline widget begin -->
 <iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
