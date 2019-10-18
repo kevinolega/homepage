@@ -6,11 +6,11 @@ Tags: [ uncategorized, blog ]
 permalink: /hiring/ 
 author: Kevin Olega 
 --- 
-## Assistant:
+### Assistant:
 
 Full-time or part-time (20+ hours/week) administrative assistant for Kevin Olega Services Inc — my “umbrella” company that does everything I do, from online publishing to app development to who-knows-what in the future. So there’s lots of room to learn and grow.
 
-## Where:
+### Where:
 
 Sucat, Parañaque City.
 
@@ -22,7 +22,7 @@ I’m looking for an outgoing and empathetic self-starter with an ability to wor
 
 This will be fast-paced and dynamic with a wide-range of tasks. It’s administrative to start, but responsibilities will grow over time.
 
-## Responsibilities and Requirements:
+### Responsibilities and Requirements:
 
 - General administrative support
 - Manage correspondence and customer support via phone and e-mail
@@ -38,8 +38,8 @@ This will be fast-paced and dynamic with a wide-range of tasks. It’s administr
 - Be a kind person
 
 
-Does that sound like you?
+### Does that sound like you?
 
-Please email your resumé to kevinolega@gmail.com.
+Please email your resumé to kevinolegaservices@gmail.com.
 
 Also, include a random fact about yourself. ☺
