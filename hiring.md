@@ -16,7 +16,7 @@ Sucat, Parañaque City.
 
 Yes it must be in-person in the office for all working hours. Sorry no work-from-home this time. Please don’t apply unless you live near Sucat.
 
-## Description:
+### Description:
 
 I’m looking for an outgoing and empathetic self-starter with an ability to work and learn on his/her own.
 
