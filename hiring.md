@@ -1,8 +1,6 @@
 --- 
 layout: page
 title: I’m Hiring
-date: 2019-10-18 11:51
-Tags: [ uncategorized, blog ]
 permalink: /hiring/ 
 author: Kevin Olega 
 --- 
@@ -14,7 +12,7 @@ Full-time or part-time (20+ hours/week) administrative assistant for Kevin Olega
 
 Sucat, Parañaque City.
 
-Yes it must be in-person in the office for all working hours. Sorry no work-from-home this time. Please don’t apply unless you live near Sucat.
+Yes it must be in-person in the office for all working hours. Sorry no work-from-home this time. Please don’t apply unless you live near Sucat (SM BF, Santana Grove Area).
 
 ### Description:
 
@@ -27,12 +25,12 @@ This will be fast-paced and dynamic with a wide-range of tasks. It’s administr
 - General administrative support
 - Manage correspondence and customer support via phone and e-mail
 - Data entry, analysis, and research on a wide range of projects
-- Make travel arrangements, such a booking flights and making hotel reservations
+- Make travel arrangements, such as booking flights and making hotel reservations
 - Assist in the hiring of freelancers and new employees
 - Manage warehouse and shipment of inventory
 - Work on the projects that interest you
 - Experience in marketing and/or data entry is a plus.
-- Excellent written and verbal communication skills with a emphasis on strong customer service
+- Excellent written and verbal communication skills with an emphasis on strong customer service
 - Attention to detail
 - Ability to manage and prioritize multiple tasks with little oversight
 - Be a kind person
