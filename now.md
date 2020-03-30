@@ -6,7 +6,7 @@ permalink: /now
 ---
 ### work
 
-I manage projects for a US-based career transition consulting business.
+I manage projects for a US-based career and HR consulting business.
 
 I'm currently not accepting additional work and business proposals. [This picture represents my tasks and commitments at the moment.][1]
 
