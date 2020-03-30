@@ -32,7 +32,7 @@ My readers kept requesting that I help improve their communication skills.
 
 I'm doing a 5x5 weightlifting routine to improve my strength. 
 
-I do about 70-80% of my current 1 rep max.
+I do five sets of five reps of about 70-80% of the weight of my current 1 rep max.
 
 - Front Squat **95 lbs.** (145 lbs. 1RM)
 - Back Squat **165 lbs.** (235 lbs. 1RM)
