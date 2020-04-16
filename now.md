@@ -22,11 +22,9 @@ I'm attempting to declutter and [sell all of my possessions on my online store][
 
 A few weeks ago, I bought access to a bunch of books and online courses including copywriting, email marketing, drawing and web design. I'm trying to study all the material.
 
-### English lessons
+### english lessons
 
-My readers kept requesting that I help improve their communication skills. 
-
-[I now sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
+My readers kept requesting that I help improve their communication skills so [I now sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
 
 ### fitness
 
@@ -39,9 +37,11 @@ I do five sets of five reps of about 70-80% of the weight of my current 1 rep ma
 - Deadlift **255 lbs.** (365 lbs. 1RM)
 - Strict Press **95 lbs.** (135 lbs. 1RM)
 
-Since I'm stuck at home, I do a lot of body weight workouts like air squats, burpees and pull ups. 
+Since I'm stuck at home, I do a lot of body weight workouts like jump ropes, air squats, burpees and pull ups. 
 
 I practice bear crawls, crab walks and inch worms and other mobility and flexibility exercises.
+
+Since the lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) to develop my exercise consistency and endurance.
 
 ### personal
 
@@ -61,7 +61,7 @@ I geek out on pens, bikes, tech, fitness, philosophy, and almost anything Japane
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Monday, March 30, 2020, Parañaque City.**
+**Last update: Thursday, April 16, 2020, Parañaque City.**
 
 
 [1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg
