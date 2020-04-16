@@ -20,9 +20,7 @@ I write [career advice for BPO workers][2] as part of my community service.
 
 I'm attempting to declutter and [sell all of my possessions on my online store][3].
 
-A few weeks ago, I bought access to a bunch of books and online courses including copywriting, email marketing, drawing and web design. I'm trying to study all the material.
-
-### english lessons
+A few months ago, I bought a bunch of books and access to online courses that include copywriting, email marketing, drawing and web design. I'm trying to study all the material.
 
 My readers kept requesting that I help improve their communication skills so [I now sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
 
