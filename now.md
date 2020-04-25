@@ -22,24 +22,11 @@ I'm attempting to declutter and [sell all of my possessions on my online store][
 
 A few months ago, I bought a bunch of books and access to online courses that include copywriting, email marketing, drawing and web design. I'm trying to study all the material.
 
-My readers kept requesting that I help improve their communication skills so [I now sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
+[I sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
 
 ### fitness
 
-I'm doing a 5x5 weightlifting routine to improve my strength. 
-
-I do five sets of five reps of about 70-80% of the weight of my current 1 rep max.
-
-- Front Squat **95 lbs.** (145 lbs. 1RM)
-- Back Squat **165 lbs.** (235 lbs. 1RM)
-- Deadlift **255 lbs.** (365 lbs. 1RM)
-- Strict Press **95 lbs.** (135 lbs. 1RM)
-
-Since I'm stuck at home, I do a lot of body weight workouts like jump ropes, air squats, burpees and pull ups. 
-
-I practice bear crawls, crab walks and inch worms and other mobility and flexibility exercises.
-
-Since the lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) to develop my exercise consistency and endurance.
+Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) to develop my exercise consistency.
 
 ### personal
 
@@ -53,13 +40,13 @@ I spend my free time [cycling][5], [CrossFit][6], [blogging][7], [drawing][8] an
 
 I'm trying to cut my carb and sugar intake and eat mostly a [Carnivore Diet][9] and only eat beef, lamb, pork, chicken and seafood.
 
-I geek out on pens, bikes, tech, fitness, philosophy, and almost anything Japanese including anime, manga and J-pop idols.
+I geek out on pens, bikes, tech, fitness, philosophy, and Japanese anime, manga and J-pop idols.
 
 [Stay in touch with me by joining my personal mailing list.][10]
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Thursday, April 16, 2020, Parañaque City.**
+**Last update: Saturday, April 25, 2020, Parañaque City.**
 
 
 [1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg
