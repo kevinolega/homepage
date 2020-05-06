@@ -8,7 +8,7 @@ permalink: /now
 
 I manage projects for a US-based career and HR consulting business.
 
-I'm currently not accepting additional work and business proposals. [This picture represents my tasks and commitments at the moment.][1]
+I'm currently not accepting additional work and business proposals.
 
 I am grateful I get to work from home. 
 
@@ -16,45 +16,44 @@ I operate from Parañaque City.
 
 ### projects
 
-I write [career advice for BPO workers][2] as part of my community service.
+I'm often writing and reflecting on my journal or tinkering with website code.
 
-I'm attempting to declutter and [sell all of my possessions on my online store][3].
+I'm beginning to see myself slowly opt out participating in social media and corporate cloud services.
 
-A few months ago, I bought a bunch of books and access to online courses that include copywriting, email marketing, drawing and web design. I'm trying to study all the material.
+Surrendering my personal information in exchange for free services no longer feels like a good trade.
 
-[I sell English activities and phone coaching](https://callcentertrainingtips.com/6WEL250/).
+I'm going back to my roots and reviewing CSS and JavaScript.
+
+My website is the definitive source of information about me and the work I'm doing.
+
+I [sell English lessons](https://callcentertrainingtips.com/6WEL250/) and write [career advice for BPO workers][1] and  as part of my community service.
 
 ### fitness
 
-Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) to develop my exercise consistency.
+Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) at 60-70% of my capacity for about 30 minutes to develop my exercise consistency.
 
 ### personal
 
-[My dog][4] is [now a father](https://www.instagram.com/p/B4gpVKEn4ZS/) and I'm learning how to fit caring for my two pets into my schedule.
+[My dog][4] is [now a father](https://www.instagram.com/p/B4gpVKEn4ZS/) and I'm now caring two pets as part of my schedule.
 
-A few years ago I found myself distracted and began renting an office and paid for a gym membership to train.
+I'm renting a small apartment that doubles as an office and exercise space.
 
-This year, I decided to rent a bigger place that will allow me to use one of the rooms as an office and has enough space to exercise in.
+I spend my free time [cycling][5], [blogging][7] and [drawing][8].
 
-I spend my free time [cycling][5], [CrossFit][6], [blogging][7], [drawing][8] and learning how to make meditation a daily practice.
+I avoid consuming carbs, sugar and eat mostly [beef][9].
 
-I'm trying to cut my carb and sugar intake and eat mostly a [Carnivore Diet][9] and only eat beef, lamb, pork, chicken and seafood.
-
-I geek out on pens, bikes, tech, fitness, philosophy, and Japanese anime, manga and J-pop idols.
+I geek out on anime, manga and J-pop idols.
 
 [Stay in touch with me by joining my personal mailing list.][10]
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Saturday, April 25, 2020, Parañaque City.**
+**Last update: Wednesday, May 06, 2020, Parañaque City.**
 
 
-[1]:	{{ site.url }}/images/Berserk Guts vs Kushan Army.jpg
-[2]:	http://callcentertrainingtips.com/fix
-[3]:	https://ph.carousell.com/kevinolega/
+[1]:	http://callcentertrainingtips.com/free
 [4]:	https://www.instagram.com/p/BqF7xlBlPSm/
 [5]:	https://www.instagram.com/p/BdlqCqkHHJ8/
-[6]:	https://philippineislandliving.com/prcity/
 [7]:	http://minimalchanges.com
 [8]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
 [9]:	http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/
