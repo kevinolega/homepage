@@ -12,7 +12,7 @@ Here's my available schedule.
 <iframe src="https://calendly.com/kevinolegaservices/60min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 <!-- Calendly inline widget end -->
 
-[You can click this link to schedule a call](https://calendly.com/kevinolegaservices/60min).
+<a href="https://calendly.com/kevinolegaservices/60min" class="button">SCHEDULE A CALL</a>
 
 My skype ID is kevinolega.
 
