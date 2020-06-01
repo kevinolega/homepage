@@ -24,6 +24,8 @@ Surrendering my personal information in exchange for free services no longer fee
 
 I'm going back to my roots and reviewing CSS and JavaScript.
 
+I'm also reading up on PostgreSQL.
+
 My website is the definitive source of information about me and the work I'm doing.
 
 I [sell English lessons](https://callcentertrainingtips.com/6WEL250/) and write [career advice for BPO workers][1] and  as part of my community service.
@@ -48,7 +50,7 @@ I geek out on anime, manga and J-pop idols.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Wednesday, May 06, 2020, Parañaque City.**
+**Last update: Monday, June 01, 2020, Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/free
