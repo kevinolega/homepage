@@ -240,6 +240,7 @@ pre > code {
 }
 
 .button {
+  background-color: #0074d9; /* blue */
   border: none;
   color: white;
   width: 80%;
