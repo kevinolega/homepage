@@ -2,7 +2,7 @@
 layout: page
 title: Saying No Now
 date: 2020-08-17 11:48
-permalink: /no/
+permalink: /n/
 author: Kevin Olega 
 --- 
 I'm saying no to most invitations and opportunities.
