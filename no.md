@@ -2,7 +2,7 @@
 layout: page
 title: Saying No Now
 date: 2020-08-17 11:48
-permalink: /n/
+permalink: /no/
 author: Kevin Olega 
 --- 
 I'm saying no to most invitations and opportunities.
@@ -14,6 +14,8 @@ I'm aware that I have limited time and resources to accomplish the most importan
 I'm also aware that I have exactly enough to accomplish what I need to accomplish.
 
 That being said, I don't need "more" of whatever you're offering.
+
+I have enough.
 
 I'm working on accomplishing a specific goal.
 
