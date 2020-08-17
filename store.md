@@ -26,8 +26,10 @@ Please send me a message for more information.
 - Hybrid Weightlifting Shoes
 - Black Spartan Race Cap
 
-## Toys for Sale
+### Toys for Sale
+
+I'll post my toys for sale soon.
 
 ### Books for Sale
 
-I will post the details soon.
+I'll post my pre-loved books for sale soon.
