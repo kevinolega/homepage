@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: NO
+title: Saying No Now
 date: 2020-08-17 11:48
 permalink: /n/
 author: Kevin Olega 
