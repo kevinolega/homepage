@@ -5,7 +5,7 @@ date: 2020-08-18 01:11
 permalink: /dw/ 
 author: Kevin Olega 
 --- 
-My work involves a combination of project management and creative work.
+My work involves project management and creative work.
 
 That said, my work requires extreme focus.
 
@@ -13,11 +13,11 @@ I thrive when I get long periods of uninterrupted silence to sit and think.
 
 The opposite is also true.
 
-I perform poorly when I'm distracted.
+I perform poorly when distracted.
 
-My work feels like driving for me.
+My job feels like driving.
 
-My tasks requires both my hands and undivided attention.
+It requires both hands and undivided attention.
 
 Using my phone becomes both illegal and dangerous when driving.
 
@@ -33,9 +33,9 @@ I avoid reading all news.
 
 I log out of social media.
 
-I turn off notifications.
+I turn off all notifications.
 
-I don't participate in events and discussion.
+I don't participate in events and discussions.
 
 [I say no to almost everything](https://kevinolega.com/n/).
 
