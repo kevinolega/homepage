@@ -6,7 +6,9 @@ permalink: /now
 ---
 ### work
 
-I manage projects for a US-based career and HR consulting business.
+I manage projects for a US-based web design and development company.
+
+I also manage marketing projects for a career and HR consulting business.
 
 I'm currently not accepting additional work and business proposals.
 
@@ -34,6 +36,8 @@ I [sell English lessons](https://callcentertrainingtips.com/6WEL250/) and write 
 
 Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) at 60-70% of my capacity for about 30 minutes to develop my exercise consistency.
 
+I recently purchased a barbell and squat rack so I follow a 5 x 5 protocol for presses, squats and deadlifts.
+
 ### personal
 
 [My dog][4] is [now a father](https://www.instagram.com/p/B4gpVKEn4ZS/) and I'm now caring two pets as part of my schedule.
@@ -42,7 +46,7 @@ I'm renting a small apartment that doubles as an office and exercise space.
 
 I spend my free time [cycling][5], [blogging][7] and [drawing][8].
 
-I avoid consuming carbs, sugar and eat mostly [beef][9].
+I avoid consuming carbs, sugar and eat mostly [beef and eggs][9].
 
 I geek out on anime, manga and J-pop idols.
 
@@ -50,7 +54,7 @@ I geek out on anime, manga and J-pop idols.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Monday, June 01, 2020, Parañaque City.**
+**Last update: Friday, October 2, 2020, Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/free
