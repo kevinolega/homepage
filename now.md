@@ -10,7 +10,7 @@ I manage projects for a US-based web design and development company.
 
 I also manage marketing projects for a career and HR consulting business.
 
-I'm currently not accepting additional work and business proposals.
+[I'm currently not accepting additional work and business proposals](https://kevinolega.com/n/).
 
 I am grateful I get to work from home. 
 
@@ -20,17 +20,14 @@ I operate from Parañaque City.
 
 I'm often writing and reflecting on my journal or tinkering with website code.
 
-I'm beginning to see myself slowly opt out participating in social media and corporate cloud services.
+I'm processing different paperwork for local business clients.
 
-Surrendering my personal information in exchange for free services no longer feels like a good trade.
+I [sell English lessons and career coaching](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service
 
-I'm going back to my roots and reviewing CSS and JavaScript.
-
-I'm also reading up on PostgreSQL.
+I'm learning how to edit photos and videos.
 
 My website is the definitive source of information about me and the work I'm doing.
 
-I [sell English lessons](https://callcentertrainingtips.com/6WEL250/) and write [career advice for BPO workers][1] and  as part of my community service.
 
 ### fitness
 
@@ -54,10 +51,10 @@ I geek out on anime, manga and J-pop idols.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Friday, October 2, 2020, Parañaque City.**
+**Last update: Saturday, January 23, 2021, Parañaque City.**
 
 
-[1]:	http://callcentertrainingtips.com/free
+[1]:	http://callcentertrainingtips.com/
 [4]:	https://www.instagram.com/p/BqF7xlBlPSm/
 [5]:	https://www.instagram.com/p/BdlqCqkHHJ8/
 [7]:	http://minimalchanges.com
