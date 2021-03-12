@@ -16,17 +16,30 @@ I am grateful I get to work from home.
 
 I operate from Parañaque City.
 
+My website is the definitive source of information about me and the work I'm doing.
+
+
 ### projects
 
-I'm often writing and reflecting on my journal or tinkering with website code.
+I'm [writing my second book](https://callcentertrainingtips.com/books). PROGRESS: 87% done.
+
+I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service
 
 I'm processing different paperwork for local business clients.
 
-I [sell English lessons and career coaching](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service
+## paused
+
+My main focus is on keeping my job and writing my book so most of the things that I do are paused.
+
+I rarely leave the house and [I say no to most invitations and requests](https://kevinolega.com/n).
+
+These are my usual activities and I'll continue after I'm done with the book:
+
+I'm often writing and reflecting on my journal.
 
 I'm learning how to edit photos and videos.
 
-My website is the definitive source of information about me and the work I'm doing.
+I'm tinkering with website code.
 
 
 ### fitness
@@ -51,7 +64,7 @@ I geek out on anime, manga and J-pop idols.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Saturday, January 23, 2021, Parañaque City.**
+**Last update: Saturday, March 13, 2021, Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
