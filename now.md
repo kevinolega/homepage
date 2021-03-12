@@ -23,15 +23,15 @@ I operate from Parañaque City.
 
 I'm [writing my second book](https://callcentertrainingtips.com/books). PROGRESS: 87% done.
 
-I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service.
+I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
-I rarely leave the house and [I say no to most invitations and requests](https://kevinolega.com/n).
+I rarely leave the house and I say [no to most invitations and requests](https://kevinolega.com/n).
 
 ### fitness
 
 Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) at 60-70% of my capacity for about 30 minutes to develop my exercise consistency.
 
-I recently purchased a barbell and squat rack so I follow a 5 x 5 protocol for presses, squats and deadlifts.
+I purchased a barbell and squat rack so I follow a 5 x 5 protocol for presses, squats and deadlifts.
 
 ### personal
 
@@ -41,7 +41,7 @@ I'm renting a small apartment that doubles as an office and exercise space.
 
 I spend my free time [cycling][5], [blogging][7] and [drawing][8].
 
-I avoid consuming carbs, sugar and eat mostly [beef and eggs][9].
+I avoid consuming carbs, sugar, and eat mostly [beef and eggs][9].
 
 I geek out on anime, manga, and J-pop idols.
 
