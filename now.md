@@ -4,7 +4,6 @@ title: kevin olega now
 description: See what exactly Kevin is doing now. This page gets updated regularly.
 permalink: /now
 ---
-My website is the definitive source of information about me and the work I'm doing.
 
 ### work
 
@@ -47,6 +46,8 @@ I avoid consuming carbs, sugar and eat mostly [beef and eggs][9].
 I geek out on anime, manga, and J-pop idols.
 
 [Stay in touch with me by joining my personal mailing list.][10]
+
+My website is the definitive source of information about me, my work, and what I'm doing. 
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
