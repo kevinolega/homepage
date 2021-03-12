@@ -10,6 +10,8 @@ I manage projects for a US-based web design and development company.
 
 I also manage marketing projects for a career and HR consulting business.
 
+I'm processing different paperwork for local business clients.
+
 [I'm currently not accepting additional work and business proposals](https://kevinolega.com/n/).
 
 I am grateful I get to work from home. 
@@ -23,15 +25,14 @@ My website is the definitive source of information about me and the work I'm doi
 
 I'm [writing my second book](https://callcentertrainingtips.com/books). PROGRESS: 87% done.
 
-I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service
-
-I'm processing different paperwork for local business clients.
-
-## paused
+I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] and  as part of my community service.
 
 My main focus is on keeping my job and writing my book so most of the things that I do are paused.
 
 I rarely leave the house and [I say no to most invitations and requests](https://kevinolega.com/n).
+
+## paused
+
 
 These are my usual activities and I'll continue after I'm done with the book:
 
