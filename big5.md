@@ -21,11 +21,14 @@ Agreeableness 50
 
 Neuroticism 87
 
+Here's the [link to the free version of the test]
+(https://www.truity.com/test/big-five-personality-test).
+
 I've taken Jordan Peterson's premium personality test.
 
 The test covers a more comprehensive reading of your scores.
 
-You may take the test by following [this link](https://www.understandmyself.com/).
+You may take the premium test by following [this link](https://www.understandmyself.com/).
 
 Each trait is a result of two sub-traits.
 
