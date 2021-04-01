@@ -13,7 +13,7 @@ I also manage marketing projects for a career and HR consulting business.
 
 I'm processing different paperwork for local business clients.
 
-[I'm currently not accepting additional work and business proposals](https://kevinolega.com/n/).
+[I'm not accepting additional work and business proposals](https://kevinolega.com/n/).
 
 I am grateful I get to work from home. 
 
@@ -21,11 +21,11 @@ I operate from Parañaque City.
 
 ### projects
 
-I'm [writing my second book](https://callcentertrainingtips.com/books). PROGRESS: 87% done.
+I'm editing the final 27% of [my second book](https://callcentertrainingtips.com/books).
 
-I [sell English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
+I sell [English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
-I rarely leave the house and I say [no to most invitations and requests](https://kevinolega.com/n).
+I rarely leave home and say [no to all invitations and requests](https://kevinolega.com/n).
 
 ### fitness
 
@@ -37,6 +37,8 @@ I purchased a barbell and squat rack so I follow a 5 x 5 protocol for presses, s
 
 [My dog][4] is [now a father](https://www.instagram.com/p/B4gpVKEn4ZS/) and I'm now caring two pets as part of my schedule.
 
+I am taking care of [Missy](https://www.instagram.com/p/CNIfQyrH9lS/?igshid=nsyvxrtdc45w), my friend's dog.
+
 I'm renting a small apartment that doubles as an office and exercise space.
 
 I spend my free time [cycling][5], [blogging][7] and [drawing][8].
@@ -47,11 +49,13 @@ I geek out on anime, manga, and J-pop idols.
 
 [Stay in touch with me by joining my personal mailing list.][10]
 
-My website is the definitive source of information about me, my work, and what I'm doing. 
+My website is the best source of information about me, my work, and what I'm doing. 
+
+I don't post updates about myself on social media.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Saturday, March 13, 2021, Parañaque City.**
+**Last update: Friday, April 2, 2021, Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
