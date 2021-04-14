@@ -2,7 +2,7 @@
 layout: default
 description: Explore the homepage of Kevin Olega. Portfolio of personal and work projects and all sorts of fun information.
 ---
-selling:    [services ideas](https://kevinolega.com)
+selling:    [services](https://kevinolega.com)
 
 documenting:    [business ideas](https://businessideasph.com)
 
