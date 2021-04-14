@@ -191,4 +191,4 @@ updated: Thursday, August 23, 2018
 [17]:	http://yanjaa.com
 [18]:	http://itsevamarie.blogspot.com
 [19]:	https://www.thecommonspace.ph
-[20]:	http://eepurl.com/oCUar
+[20]:	https://sendfox.com/kevinolega

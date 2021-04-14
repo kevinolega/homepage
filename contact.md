@@ -9,4 +9,4 @@ published: true
 
 The best way to contact me is by sending me an email.
 
-The best way to stay in touch is by [joining my mailing list](http://eepurl.com/oCUar).
+The best way to stay in touch is by [joining my mailing list](https://sendfox.com/kevinolega).

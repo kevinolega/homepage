@@ -64,7 +64,7 @@ This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out
 [7]:	http://minimalchanges.com
 [8]:	https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3
 [9]:	http://philippineislandliving.com/carnivore-diet-philippines-first-attempt/
-[10]:	http://eepurl.com/oCUar
+[10]:	https://sendfox.com/kevinolega
 [11]:	http://sivers.org/nowff
 [12]:	http://nownownow.com
 

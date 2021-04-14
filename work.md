@@ -26,4 +26,4 @@ updated: Saturday, August 11, 2018
 [1]:	https://photos.app.goo.gl/yjNUrU0n9nNWXYU03
 [2]:	http://callcentertrainingtips.com/basics
 [3]:	http://philippinesprivateenglishtutors.com/
-[4]:	http://eepurl.com/oCUar
+[4]:	https://sendfox.com/kevinolega

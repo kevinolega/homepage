@@ -22,7 +22,7 @@ permalink: /schedule
 
 **how to reach me:**
 
-The best way to stay in touch is [joining my email list where I send my updates](http://eepurl.com/oCUar).
+The best way to stay in touch is [joining my email list where I send my updates](https://sendfox.com/kevinolega).
 
 You can send me an email and tell me what you need and I'll reply when I'm logged in.
 

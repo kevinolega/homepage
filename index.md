@@ -16,4 +16,4 @@ photos: [instagram](https://instagram.com/kevinolega)
 
 latest: [what I'm doing now](http://kevinolega.com/now)
 
-subscribe:  [email updates](http://eepurl.com/oCUar)
+subscribe:  [email updates](https://sendfox.com/kevinolega)
