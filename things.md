@@ -218,4 +218,4 @@ Notes
 
   
 
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://minimalchanges.com/) 
+### [main](https://olega.org) | [bio](https://olega.org/about) | [articles](http://minimalchanges.com/) 

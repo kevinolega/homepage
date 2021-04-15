@@ -24,11 +24,11 @@ I worked in the BPO industry since 2007 my friends have been asking me for tips 
 
 Want more?
 
-[Some trivia.](http://kevinolega.com/trivia)
+[Some trivia.](https://olega.org/trivia)
 
 [Instagram photos.](http://instagram.com/kevinolega)
 
-[Here's what I'm doing now.](http://kevinolega.com/now)
+[Here's what I'm doing now.](https://olega.org/now)
 
 ### Work Projects
 

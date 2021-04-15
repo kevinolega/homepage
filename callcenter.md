@@ -55,4 +55,4 @@ The website is currently down because I'm migrating out of Wordpress. Let me kno
 
   
 
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://kevinolega.com/articles)
+### [main](https://olega.org) | [bio](https://olega.org/about) | [articles](https://olega.org/articles)

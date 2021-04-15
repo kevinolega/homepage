@@ -208,4 +208,4 @@ Mental Models:
 
 This is incomplete. Will update soon. Last updated: April 27,2017  
 
-### [main](http://kevinolega.com) | [bio](http://kevinolega.com/about) | [articles](http://kevinolega.com/articles)
+### [main](https://olega.org) | [bio](https://olega.org/about) | [articles](https://olega.org/articles)
