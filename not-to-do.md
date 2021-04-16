@@ -29,4 +29,8 @@ Instagram ads.
 
 Selling insurance.
 
+Expensive SAAS. (Wistia, Aweber, etc.)
+
+Cereals.
+
 [Here's what I'm doing now](https://olega.org/now).
