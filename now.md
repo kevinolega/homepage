@@ -4,6 +4,7 @@ title: kevin olega now
 description: See what exactly Kevin is doing now. This page gets updated regularly.
 permalink: /now
 ---
+Here's what I'm doing now.
 
 ### work
 
@@ -21,17 +22,23 @@ I operate from Parañaque City.
 
 ### projects
 
-I'm editing the final 27% of [my second book](https://callcentertrainingtips.com/books).
+I'm editing the final 150 pages of [my second book](https://callcentertrainingtips.com/books).
 
 I sell [English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
-I rarely leave home and say [no to all invitations and requests](https://kevinolega.com/n).
+I rarely leave home and say [no to all invitations and requests](https://olega.org/n).
+
+I just purchased [olega.org](https://olega.org/) for my homepage. 
+
+I'm migrating all my pages and links into the new url.
 
 ### fitness
 
 Since the Covid-19 lockdown I've been doing [Tabata exercises](https://minimalchanges.com/tabata) at 60-70% of my capacity for about 30 minutes to develop my exercise consistency.
 
 I purchased a barbell and squat rack so I follow a 5 x 5 protocol for presses, squats and deadlifts.
+
+I'd like to box and try Jiujitsu after the pandemic.
 
 ### personal
 
@@ -55,7 +62,7 @@ I don't post updates about myself on social media.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Friday, April 2, 2021, Parañaque City.**
+**Last update: Saturday, April 17, 2021, Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
