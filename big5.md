@@ -11,7 +11,7 @@ Some free versions call this the OCEAN test.
 
 Here are my results.
 
-Openness 61
+**Openness** 61
 
 Conscientiousness 45
 
