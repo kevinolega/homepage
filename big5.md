@@ -21,8 +21,7 @@ Agreeableness 50
 
 Neuroticism 87
 
-Here's the [link to the free version of the test]
-(https://www.truity.com/test/big-five-personality-test).
+Here's the [link to the free version of the test](https://www.truity.com/test/big-five-personality-test).
 
 I've taken Jordan Peterson's premium personality test.
 
