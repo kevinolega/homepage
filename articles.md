@@ -35,3 +35,11 @@ Here are some of my favorites.
 *   [more on Call Center Training Tips](http://callcentertrainingtips.com)
 
 If you'd like to read more you can visit the blogs directly. I hope you enjoy reading them as much as I enjoyed writing them.
+
+{% for post in site.posts %}
+<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+{% endfor %}
+
+{% for post in site.posts %}
+<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+{% endfor %}
