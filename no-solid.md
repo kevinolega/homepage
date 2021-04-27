@@ -15,7 +15,7 @@ I'm confident that you have a similar experience.
 
 I'm saying no to almost everything.
 
-I'm committed to [what I'm doing now](https://kevinolega.com/now).
+I'm committed to [what I'm doing now](https://olega.org/now).
 
 Then again, a no is not a never.
 
@@ -25,4 +25,4 @@ I appreciate the effort that you reached out.
 
 If you get back to me in six months to a year maybe my situation has changed.
 
-[Here's what I'm doing now](https://kevinolega.com/now).
+[Here's what I'm doing now](https://olega.org/now).

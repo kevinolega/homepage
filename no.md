@@ -37,4 +37,4 @@ I appreciate the effort that you reached out.
 
 If you get back to me in six months to a year maybe my situation has changed.
 
-[Here's what I'm doing now](https://kevinolega.com/now).
+[Here's what I'm doing now](https://olega.org/now).
