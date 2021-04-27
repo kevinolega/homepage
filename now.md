@@ -14,7 +14,7 @@ I also manage marketing projects for a career and HR consulting business.
 
 I'm processing different paperwork for local business clients.
 
-[I'm not accepting additional work and business proposals](https://kevinolega.com/n/).
+[I'm not accepting additional work and business proposals](https://olega.org/n/).
 
 I am grateful I get to work from home. 
 
@@ -22,7 +22,7 @@ I operate from Parañaque City.
 
 ### projects
 
-I'm editing the final 150 pages of [my second book](https://callcentertrainingtips.com/books).
+I'm editing the final 60 pages of [my second book](https://callcentertrainingtips.com/books).
 
 I sell [English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
@@ -62,7 +62,7 @@ I don't post updates about myself on social media.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Saturday, April 17, 2021, Parañaque City.**
+**Last update: Tuesday, April 27, 2021 Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
