@@ -2,9 +2,11 @@
 layout: page
 title: kevin olega now
 description: See what exactly Kevin is doing now. This page gets updated regularly.
-permalink: /now
+permalink: now
 ---
 Here's what I'm doing now.
+
+[Join my private mailing list for updates and announcements](https://sendfox.com/kevinolega).
 
 ### work
 
@@ -22,7 +24,7 @@ I operate from Parañaque City.
 
 ### projects
 
-I'm editing the final 60 pages of [my second book](https://callcentertrainingtips.com/books).
+I just completed writing [my second book](https://callcentertrainingtips.com/shy-book).
 
 I sell [English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
@@ -54,15 +56,16 @@ I avoid consuming carbs, sugar, and eat mostly [beef and eggs][9].
 
 I geek out on anime, manga, and J-pop idols.
 
-[Stay in touch with me by joining my personal mailing list.][10]
-
 My website is the best source of information about me, my work, and what I'm doing. 
 
 I don't post updates about myself on social media.
 
+[Stay in touch with me by joining my personal mailing list.][10]
+
+
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Tuesday, April 27, 2021 Parañaque City.**
+**Last update: Saturday, May 1, 2021 Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
