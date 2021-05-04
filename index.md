@@ -19,3 +19,5 @@ photos: [instagram](https://instagram.com/kevinolega)
 latest: [what I'm doing now](https://olega.org/now)
 
 subscribe:  [email updates](https://sendfox.com/kevinolega)
+
+<p><a href="https://sendfox.com/kevinolega" class="button focus">STAY IN TOUCH TO GET UPDATES</a></p>
