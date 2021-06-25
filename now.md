@@ -24,7 +24,13 @@ I operate from Parañaque City.
 
 ### projects
 
+I'm working on improving my video editing skills.
+
+I'm also polishing my email marketing skills.
+
 I just completed writing [my second book](https://callcentertrainingtips.com/shy-book).
+
+I'm writing fiction for fun with my friends at [Fresh Myth](https://www.facebook.com/FreshMyth/).
 
 I sell [English lessons](https://callcentertrainingtips.com/promos/) and write [career advice for BPO workers][1] as part of my community service.
 
@@ -65,7 +71,7 @@ I don't post updates about myself on social media.
 
 This page is inspired by [Derek Sivers’ /now page][11] movement. Check it out at [nownownow.com][12].
 
-**Last update: Saturday, May 1, 2021 Parañaque City.**
+**Last update: Saturday, June 26, 2021 Parañaque City.**
 
 
 [1]:	http://callcentertrainingtips.com/
