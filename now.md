@@ -10,5 +10,6 @@ permalink: now
 {% include projects.html %}
 {% include fitness.html %}
 {% include personal.html %}
+{% include email-cta.html %}
 {% include now-source.html %}
 {% include last-update.html %}
