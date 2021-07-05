@@ -6,35 +6,34 @@ author: Kevin Olega
 page.date: 2012-10-10 08:08:26
 published: true
 ---
-Trivia
-------
+This page contains a bunch of trivia.
 
-Kevin is:
+### Kevin is:
 
 *   a minimalist
 *   left-handed
 *   a libra
-*   32 years old
+*   35 years old
 *   an above average camera phone photographer
 *   not a beach person
 *   lives with [less than 100 things](http://minimalchanges.com/100-things-challenge-december-2011/)
-*   is an unapologetic fan of Naruto, How I Met Your Mother, Suits, Baki the Grappler, A World God Only Knows, Darker than Black and Arakawa Under The Bridge.
+* is an unapologetic fan of anime and j-pop idols.
 
-Kevin believes:
+
+### Kevin believes:
 
 *   You should buy less stuff and be content with what you have.
 *   The less you own the happier you are.
-*   Buying a house or car doesn't make sense if your goal is mobility.
+*   Buying a house or car doesn't make sense if your goal is global mobility.
 *   What you have and what you can do is the best option there is.
 *   In trusting God, reading the Bible and going to church.
 *   Simple joys are meant to be shared going for a long walk, talk, eat or travel.
 *   Self awareness maximizes creativity writing down your expenses, schedule, problems solves most of your problems.
 *   Starting with something small if you're not doing anything awesome yet.
-*   You should watch Naruto and Fairy Tail
 
-### Expect me to geek out on the following topics...
+## Expect me to geek out on the following topics...
 
-Comicbook Characters:
+### Comicbook Characters:
 
 *   Deadpool
 *   Daredevil
@@ -44,13 +43,13 @@ Comicbook Characters:
 *   Blade
 *   Green Lantern
 *   Batman
-*   Sin City Characters
+*   Sin City characters
 
-Popular Movies:
+### Popular Movies:
 
 *   Star Wars Saga
 *   Lord of The Rings
-*   Hellraiser Saga
+*   Hellraiser by Clive Barker
 *   The Deadpool Movie
 *   Christopher Nolan's Batman
 *   JJ Abrams' Star Trek Movies
@@ -70,10 +69,11 @@ Popular Movies:
 *   Martial Arts Movies that has Stephen Segal and Jean Claude Van Damme
 *   Any movie in the Marvel Cinematic Universe
 
-TV Shows:
+### TV Shows:
 
 *   How I Met Your Mother
 *   2 Broke Girls
+*   The Good Place
 *   My Name is Earl
 *   Everybody Hates Chris
 *   Daredevil
@@ -88,7 +88,7 @@ TV Shows:
 *   Game of Thrones
 *   The Walking Dead
 
-Cartoons I grew up on:
+### Cartoons I grew up on:
 
 *   Recess
 *   Rugrats
@@ -101,18 +101,23 @@ Cartoons I grew up on:
 *   Hey Arnold
 *   I'll try to add more..
 
-Cooking Shows:
+### Cooking Shows:
 
 *   Gordon Ramsay
 *   Jamie Oliver
 *   Heston Blumenthal
 *   Erwan Heusaff
 
-Anime and Manga
+### Anime and Manga
 
+*	Berserk
+*   Yu Yu Hakusho
 *   Naruto
-*   Re:Zero - Starting Life in an Alternate World.
+*   Macross Frontier
+*	Love Live
+*	Zombieland Saga
 *   Kono Subarashi Sekkai Wo
+*   Re:Zero - Starting Life in an Alternate World.
 *   History's Strongest Disciple Kenichi
 *   Kimi no Iru Machi
 *   Mysterious Girlfriend X
@@ -126,17 +131,23 @@ Anime and Manga
 *   Arakawa Under The Bridge
 *   Cowboy Bebop
 *   Darker than Black
-*   Macross Frontier
-*   Berserk
 *   Fairy Tail
 *   Baki The Grappler
 *   Rouroni Kenshin
 *   Sidonia no Kishi
 *   Attack on Titan
-*   Yu Yu Hakusho
+
 *   There's a lot more and I consume anime and manga like chips...
 
-Non Fiction Books:
+
+### Authors and Thought Leaders
+
+*	Tim Ferriss
+*	Alan Watts
+*	Jordan Peterson
+*	Tony Robbins
+
+### Non Fiction Books:
 
 *   The Bible
 *   Rich Dad Poor Dad and Robert Kiyosaki's first dozen books
@@ -157,7 +168,7 @@ Non Fiction Books:
 *   Anything related to Martial Arts
 *   This is going to take a while...
 
-Games
+### Games
 
 *   Tekken
 *   Diablo 2
@@ -188,7 +199,7 @@ Games
 *   Deadpool. Yes there is a Deadpool game.
 *   I'm trying to remember the rest...
 
-Fitness:
+### Fitness:
 
 *   Bikes
 *   CrossFit
@@ -196,7 +207,7 @@ Fitness:
 *   Nutrition
 *   Self Experimentation
 
-Mental Models:
+### Mental Models:
 
 *   Lifehacker
 *   Exile Lifestyle
@@ -205,7 +216,6 @@ Mental Models:
 *   Christianity
 *   Zen
 *   Stoic Philosophy
+*   Junginan Psychology
 
-This is incomplete. Will update soon. Last updated: April 27,2017  
-
-### [main](https://olega.org) | [bio](https://olega.org/about) | [articles](https://olega.org/articles)
+{% include last-update.html %}
