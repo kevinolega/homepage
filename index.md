@@ -6,4 +6,3 @@ description: Explore the homepage of Kevin Olega. Portfolio of personal and work
 {% include link-table.html %}
 
 {% include email-list.html %}
-
