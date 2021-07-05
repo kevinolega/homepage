@@ -136,7 +136,6 @@ This page contains a bunch of trivia.
 *   Rouroni Kenshin
 *   Sidonia no Kishi
 *   Attack on Titan
-
 *   There's a lot more and I consume anime and manga like chips...
 
 
