@@ -8,7 +8,7 @@ published: true
 ---
 This page contains a bunch of trivia.
 
-### Kevin is:
+**Kevin is:**
 
 *   a minimalist
 *   left-handed
@@ -20,7 +20,7 @@ This page contains a bunch of trivia.
 * is an unapologetic fan of anime and j-pop idols.
 
 
-### Kevin believes:
+**Kevin believes:**
 
 *   You should buy less stuff and be content with what you have.
 *   The less you own the happier you are.
@@ -29,11 +29,11 @@ This page contains a bunch of trivia.
 *   In trusting God, reading the Bible and going to church.
 *   Simple joys are meant to be shared going for a long walk, talk, eat or travel.
 *   Self awareness maximizes creativity writing down your expenses, schedule, problems solves most of your problems.
-*   Starting with something small if you're not doing anything awesome yet.
+*   Starting with something small if you're not doing Books awesome yet.
 
-## Expect me to geek out on the following topics...
+Expect me to geek out on the following topics...
 
-### Comicbook Characters:
+**Comicbook Characters:**
 
 *   Deadpool
 *   Daredevil
@@ -45,11 +45,12 @@ This page contains a bunch of trivia.
 *   Batman
 *   Sin City characters
 
-### Popular Movies:
+**Popular Movies:**
 
 *   Star Wars Saga
 *   Lord of The Rings
 *   Hellraiser by Clive Barker
+*   Evil Dead
 *   The Deadpool Movie
 *   Christopher Nolan's Batman
 *   JJ Abrams' Star Trek Movies
@@ -69,11 +70,12 @@ This page contains a bunch of trivia.
 *   Martial Arts Movies that has Stephen Segal and Jean Claude Van Damme
 *   Any movie in the Marvel Cinematic Universe
 
-### TV Shows:
+**TV Shows:**
 
 *   How I Met Your Mother
 *   2 Broke Girls
 *   The Good Place
+*   Ash vs Evil Dead
 *   My Name is Earl
 *   Everybody Hates Chris
 *   Daredevil
@@ -88,7 +90,7 @@ This page contains a bunch of trivia.
 *   Game of Thrones
 *   The Walking Dead
 
-### Cartoons I grew up on:
+**Cartoons I grew up on:**
 
 *   Recess
 *   Rugrats
@@ -101,14 +103,14 @@ This page contains a bunch of trivia.
 *   Hey Arnold
 *   I'll try to add more..
 
-### Cooking Shows:
+**Cooking Shows:**
 
 *   Gordon Ramsay
 *   Jamie Oliver
 *   Heston Blumenthal
 *   Erwan Heusaff
 
-### Anime and Manga
+**Anime and Manga**
 
 *	Berserk
 *   Yu Yu Hakusho
@@ -138,34 +140,45 @@ This page contains a bunch of trivia.
 *   Attack on Titan
 *   There's a lot more and I consume anime and manga like chips...
 
-
-### Authors and Thought Leaders
+**Influential Authors**
 
 *	Tim Ferriss
 *	Alan Watts
 *	Jordan Peterson
 *	Tony Robbins
+*   Kentaro Miura
 
-### Non Fiction Books:
+
+**Non-Fiction Books:**
 
 *   The Bible
-*   Rich Dad Poor Dad and Robert Kiyosaki's first dozen books
 *   Stephen Covey's 7 Habits
 *   The Art of Learning by Josh Waitzkin
-*   Anything by Jim Rohn
-*   Anything by Alan Watts
-*   Anything by Tim Ferriss
-*   Anything by John Maxwell
-*   Anything by Brian Tracy
-*   Anything by James Altutcher
-*   Anything by Colin Wright
-*   Anything by Tony Robbins
-*   Anything by Ryan Holliday
-*   Anything related to Stoicism
-*   Anything related to Minimalism
-*   Anything related to Cooking
-*   Anything related to Martial Arts
+*   Books by Alan Watts
+*   Books by Tim Ferriss
+*   Books by Jordan Peterson
+*   Books by Jim Rohn
+*   Books by John Maxwell
+*   Books by Brian Tracy
+*   Books by James Altutcher
+*   Books by Colin Wright
+*   Books by Tony Robbins
+*   Books by Ryan Holliday
+*   Books by Jocko Willink
+*   Books by Austin Kleon
+*   Books related to Stoicism
+*   Books related to Minimalism
+*   Books related to Cooking
+*   Books related to Martial Arts
+*   Rich Dad Poor Dad and Robert Kiyosaki's first dozen books
 *   This is going to take a while...
+
+**Fiction**
+
+*   Anne Rice
+*   Kentaro Miura
+*   J.R.R. Tolkien
+*   Michael Stackpole
 
 ### Games
 
@@ -188,6 +201,10 @@ This page contains a bunch of trivia.
 *   Mortal Kombat
 *   Doom
 *   Quake
+*   Unreal
+*   MDK
+*   Carmageddon
+*   Commandos: Behind Enemy Lines
 *   Infinity Blade
 *   Plants vs Zombies
 *   Summoner's War
@@ -203,7 +220,7 @@ This page contains a bunch of trivia.
 *   Bikes
 *   CrossFit
 *   Martial Arts: Both Traditional and Mixed
-*   Nutrition
+*   Nutrition: Atkins, Keto, Slow-Carb, Paleo, Carnivore
 *   Self Experimentation
 
 ### Mental Models:

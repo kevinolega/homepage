@@ -18,7 +18,7 @@ I have a mix of different skills and interests.
 
 In 2010, I started a website titled [minimal changes](http://minimalchanges.com) about my personal experiments to develop free time, spare cash, a clear head and lighter living by applying minimalist lifestyle expriments and by testing counter intuitive strategies on myself. It's been a fun ride.
 
-I'm from the Philippines and I enjoy travel and trying out food. Occassionaly, I take lots of pictures. I started a website named [Philippine Island Living](http://philippineislandliving.com) to share tips and stories about my adventures and the things I enjoy about life in the Philippines.
+I'm from the Philippines and I enjoy travel and trying out food. Occassionaly, I take lots of pictures. I started a website named [Philippine Island Living](http://philippineislandliving.com) to share tips and stories about my adventures and the things I enjoy about life in the Philippines. I eventually rebranded the website in 2020 to help promote local businesses and service providers.
 
 I worked in the BPO industry since 2007 my friends have been asking me for tips on how to get hired in a call center. I'm an introvert. People who know me growing up know it that's why they ask me for tips because they couldn't believe the improvement. I enjoy teaching people because I know the challenges of people who are shy or have difficulty communiting. I enjoy helping shy people like me. Over time I realized that I've been spending a bit too much time doing this so I decided to set up a website and write all my lessons instead of spending a few hours with them teaching them all I know over beer or food. [Call Center Training Tips is an online reference to help people get hired in a call center](http://callcentertrainingtips.com).
 
@@ -76,8 +76,15 @@ And taking anything too seriously often ends in failure.
 
 ### Recent Wins
 
-1.  I competed in two inter-box CrossFit competitions one for PR City CrossFit and one with Primal Ape CrossFit and did better than I expected. The experience helped me discover that I can do more than 40 pull ups, do 83 burpees in seven minutes, do more than 50 wall ball shots in less than ten minutes, unlocked my power clean and lift giant tires. The experience gave me a lot of confidence in my physical abilities, and more importantly my ability to prepare and select the right strategy. I also learned that a calm and steady pace beats sprinting all the time and had allowed me to win and lose gracefully against insanely stronger competitors.
-2.  Learned how I can use Jekyll, a bare-bones static website generator to replace Wordpress as a blogging platform and to use GitHub to host my websites. So far I've learned to build sites from the base template, learned how to use different templates, adjust the code to include Google Analytics and Disquss comments and advertisements. I still have much to learn but I'm getting there.
-3.  Quit my Call Center Job to become a freelance ghost writer.
-4.  Built a home office so I can work remotely.
-5.  Got over my depression by learning to manipulate my physical state through optimal body mechanics, breathing techniques, cold exposure and other physical adjustments as well as studying and adapting Stoic philosophy as well as the work of Tim Ferriss, [Derek Sivers](http://sivers.org), Tony Robbins, Jordan Peterson and Alan Watts.
+-  I competed in two inter-box CrossFit competitions one for PR City CrossFit and one with Primal Ape CrossFit and did better than I expected. The experience helped me discover that I can do more than 40 pull ups, do 83 burpees in seven minutes, do more than 50 wall ball shots in less than ten minutes, unlocked my power clean and lift giant tires. The experience gave me a lot of confidence in my physical abilities, and more importantly my ability to prepare and select the right strategy. I also learned that a calm and steady pace beats sprinting all the time and had allowed me to win and lose gracefully against insanely stronger competitors.
+- I competed in two CrossFit Total weightlifting events. I started lifting a maximum of 130 lbs and can now deadlift 365 lbs.
+- I learned the joys of cycling and have gone on a few hundred kilometer rides. 
+- I learned how I can use Jekyll, a bare-bones static website generator to replace Wordpress as a blogging platform and to use GitHub to host my websites. So far I've learned to build sites from the base template, learned how to use different templates, adjust the code to include Google Analytics and Disquss comments and advertisements. I still have much to learn but I'm getting there.
+-  Quit my Call Center Job to become a freelance ghost writer.
+- Started working as a virtual assistant in 2016. Became a communications and project manager.
+- Built a home office so I can work remotely.
+- Got over my depression by learning to manipulate my physical state through optimal body mechanics, breathing techniques, cold exposure and other physical adjustments as well as studying and adapting Stoic philosophy as well as the work of Tim Ferriss, [Derek Sivers](http://sivers.org), Tony Robbins, Jordan Peterson and Alan Watts.
+- Learned how to drive.
+- Adopted a dog. My dog became a father.
+
+{% include last-update.html %}
