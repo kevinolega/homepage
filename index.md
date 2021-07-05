@@ -20,4 +20,4 @@ latest: [what I'm doing now](https://olega.org/now)
 
 subscribe:  [email updates](https://sendfox.com/kevinolega)
 
-<a href="https://sendfox.com/kevinolega" class="button focus">STAY IN TOUCH TO GET UPDATES</a>
+{% include email-list.html %}
