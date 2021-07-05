@@ -20,4 +20,6 @@ latest: [what I'm doing now](https://olega.org/now)
 
 subscribe:  [email updates](https://sendfox.com/kevinolega)
 
-{% include email-list.html %}
+
+<p>{% include email-list.html %}</p>
+
