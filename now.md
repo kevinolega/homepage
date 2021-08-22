@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kevin olega now
-description: See what exactly Kevin is doing now. This page gets updated regularly.
+description: What exactly Kevin is doing now? Kevin's regular updates regularly.
 permalink: now
 ---
 {% include now-greeting.html %}
