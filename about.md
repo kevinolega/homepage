@@ -4,9 +4,44 @@ title: about kevin olega
 permalink: /about/
 author: Kevin Olega
 page.date: 2012-10-10 08:08:26
-published: true
 ---
 ![Here's a photo of Kevin]({{ site.url }}/images/Kevin.jpg).
+
+Hello there!
+
+Welcome to my about page.
+
+I share my history and past activities on this page.
+
+Please visit my [Now Page to find out what I'm doing now](https://olega.org/now)
+
+I'm still tidiying up this page.
+
+### PAST
+
+I processed various paperwork for local business clients.
+
+I managed projects for a web development company in Missouri.
+
+I worked as a Junior Project Manager and virtual assistant for DG Consulting, an IT consulting firm for eight-figure entrepreneurs and online marketers.
+
+I managed the day-to-day operations a CrossFit box.
+
+I was a professional writer for various educational, financial, creativity, sports, outdoor, travel, fitness, and health websites.
+
+I was a technical and customer support agent for COMCAST under WCS.
+
+I was in corporate sales and sold IT solutions and 
+
+I worked part-time as an English teacher and academic tutor as well as a sales trainer.
+
+I worked for a call center training school.
+
+I worked as a commission-only salesperson for real estate, insurance, and other companies.
+
+I was a gun store sales clerk.
+
+### SUMMARY
 
 I enjoy writing and making things on the web.
 
@@ -15,6 +50,9 @@ I started making websites in 2005.
 I worked in sales and marketing.
 
 I have a mix of different skills and interests.
+
+
+### ONLINE WRITING
 
 In 2010, I started a website titled [minimal changes](http://minimalchanges.com) about my personal experiments to develop free time, spare cash, a clear head and lighter living by applying minimalist lifestyle expriments and by testing counter intuitive strategies on myself. It's been a fun ride.
 
