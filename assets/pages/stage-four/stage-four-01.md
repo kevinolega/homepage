@@ -1,12 +1,10 @@
 --- 
 layout: page
-title: 
+title: THIS CONVERSATION IS ABOUT YOUR FAMILY
 date: 2021-10-06 00:50
 permalink: s4-01
 author: Kevin Olega 
 --- 
-
-
 Hi there!
 
 You love your kid, but you're not getting along.
@@ -63,4 +61,4 @@ Enough talk.
 
 You may read the solution by clicking here.
 
-<a href="https://olega.org/s2" class="button focus">VIEW SOLUTION</a>
+<a href="https://olega.org/s4-02" class="button focus">VIEW DETAILS</a>
