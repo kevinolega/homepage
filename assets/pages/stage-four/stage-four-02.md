@@ -33,4 +33,4 @@ These questions are all I have available to share so far.
 
 Click the button if you'd like more.
 
-<a href="https://olega.org/s4-03" class="button focus">VIEW SOLUTION</a>
+<a href="https://olega.org/s4-03" class="button focus">GET MORE</a>
