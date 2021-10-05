@@ -20,11 +20,11 @@ Please take the time to consider the following questions.
 9. What bad habits do you hope they'd let go of as they get older?
 10. What are your regrets? Talk about your mistakes and how you wish you'd done differently.
 11. Please write a letter that includes the following.
-	a. Tell your son that you love them.
-	b. Tell them about the activities that you wished you'd do together.
-	c. Tell them about your wishes.
-	d. Talk about your final requests.
-	e. Say goodbye.
+ - Tell your son that you love them.
+ - Tell them about the activities that you wished you'd do together.
+ - Tell them about your wishes.
+ - Talk about your final requests.
+ - Say goodbye.
 12. Release them from any unfair burden or pressure. Acknowledge them that they're a good person. Please talk about your wishes and advice but constantly remind them that they are their own person. They'll be the ones in charge of their life eventually. Give them permission to make their own decisions and be comfortable with who they are as a  person. Ask for forgiveness for whatever conflict you had in the past. Please encourage them to step forward one last time. 
 
 BONUS: What challenges do you want them to voluntarily expose themselves to so they can grow as a person.
