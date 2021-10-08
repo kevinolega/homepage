@@ -15,4 +15,6 @@ You are generally civil but occasionally argue over creative differences.
 
 Your son knows the rules of engagement but occasionally requires some reminders.
 
+You and your son are generally okay but you sometimes feel frustrated that he's not paying attention to what you say and you're worried about his future.
+
 Your relationship is incredibly smooth. You're both always on the same page and can almost finish each other's sentences.
