@@ -38,6 +38,6 @@ This will be fast-paced and dynamic with a wide-range of tasks. It’s administr
 
 ### Does that sound like you?
 
-Please email your resumé to kevinolegaservices@gmail.com.
+Please email your resumé to kevin@olega.org.
 
 Also, include a random fact about yourself. ☺

@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 As someone who desperately needed these when my father passed away, you can have these questions at no charge as my gift for you.
 
-Send me an email to kevinolegaservices at gmail dot com if you'd like to ask questions.
+Send an email to kevin at olega dot org for questions.
 
 You may also engage our services. 
 
