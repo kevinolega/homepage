@@ -18,7 +18,8 @@ permalink: /schedule
 
 **sunday**  I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
 
-<iframe src="https://calendly.com/kevinolega/30min" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
+<script src="https://asset-tidycal.b-cdn.net//js/embed.js"></script>
+<div id="tidycal-embed" data-path="kevinolega/30-minute-meeting"></div>
 
 **how to reach me:**
 
