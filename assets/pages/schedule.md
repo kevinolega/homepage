@@ -4,6 +4,11 @@ title: kevin olega's schedule
 description: View is Kevin Olega's schedule.
 permalink: /schedule
 ---
+<script src="https://asset-tidycal.b-cdn.net//js/embed.js"></script>
+<div id="tidycal-embed" data-path="kevinolega/30-minute-meeting"></div>
+
+This is what my typical week looks like.
+
 **monday**  I'm working. I say no to all invitations.
 
 **tuesday**  I'm working. I say no to all invitations.
@@ -12,14 +17,11 @@ permalink: /schedule
 
 **thursday**  I'm running errands today but I may be open to a short meeting.
 
-**friday**  I am running errands today but may be open to a meeting within BF Parañaque or online.
+**friday**  I am running errands today but may be open to a meeting within my location or online.
 
 **saturday**  Saturday is training day for me but may be available in the afternoon.
 
-**sunday**  I'm in either Sucat or Alabang, playing with my dog, biking, drawing, going to church and seeing family.
-
-<script src="https://asset-tidycal.b-cdn.net//js/embed.js"></script>
-<div id="tidycal-embed" data-path="kevinolega/30-minute-meeting"></div>
+**sunday**  I'm spending time with family, playing with my dog, biking, drawing, going to church and seeing family.
 
 **how to reach me:**
 
@@ -29,6 +31,6 @@ You can send me an email and tell me what you need and I'll reply when I'm logge
 
 If you need to reach me for something urgent, you can send me a text message and I'm going to reply or call you back when I'm available.
 
-Monday to Wednesday is usually crazy busy and Friday is difficult to leave Parañaque. 
+Mondays to Wednesdays are usually crazy busy and Friday is difficult to leave Parañaque. 
 
 That's the reason I do most things online.
