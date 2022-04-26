@@ -1,0 +1,76 @@
+---
+layout: page
+title: Kevin's Book Recommendations
+description: A list of books that I recommend
+permalink: book-r
+---
+## BUSINESS BOOKS
+
+- The Four Hour Workweek by Tim Ferriss
+- Anything You Want by Derek Sivers
+- Your Music and People by Derek Sivers
+- Before You Quit Your Job by Robert Kiyosaki
+- Start a Freedom Business by Colin Wright
+
+## FINANCIAL BOOKS
+
+- Money: Master the Game by Tony Robbins
+- I Will Teach You To Be Rich by Ramit Sethi
+- The Richest Man in Babylon
+- Millionaire Next Door
+- Secrets of the Millionaire Mind by T Harv Eker
+- The Rich Employee by James Altutcher
+- 
+
+## CAREER DEVELOPMENT BOOKS
+
+- Linchpin by Seth Godin
+- Remote: Office Not Required by Jason Fried and David Heinemeier Hansson
+- Rework: Change The Way You Work Forever by Jason Fried and David Heinemeier Hansson
+- Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink and Leif Babin
+- Discipline Equals Freedom: Field Manual Mk1-MOD1 by Jocko Willink
+
+## PERSONAL DEVELOPMENT BOOKS
+
+- The Four Hour Body by Tim Ferriss
+- How to Live by Derek Sivers
+- 12 Rules for Life: An Antidote to Chaos by Jordan Peterson
+- Beyond Order by Jordan Peterson
+- Can't Hurt Me by David Goggins
+- 7 Secrets to Wealth and Happiness by Jim Rohn
+- 7 Habits of Highly Effective People by Stephen Covey
+- Essentialism: The Disciplined Pursuit of Less by Greg McKeown
+- Choose Yourself by James Altutcher
+- Tools of Titans by Tim Ferriss
+- Tribe of Mentors by Tim Ferriss
+- Awaken the Giant within by Anthony Robbins
+
+
+## SKILL BOOKS
+
+- The Four Hour Chef by Tim Ferriss
+- The Art of Learning by Josh Waitzkin
+- How to Read a Book: The Classic Guide to Intelligent Reading by d
+Mortimer J. Adler and Charles Van Doren
+- Gordon Ramsay's Home Cooking: Everything You Need to Know to Make Fabulous Food by Gordon Ramsay
+- 30 Minute Meals by Jamie Oliver
+- Heston Blumenthal at Home by Heston Blumenthal
+- Never Split the Difference: Negotiating as if Your Life Depended on It by Chris Voss and Michael Kramer
+- How to Travel Full-Time by Colin Wright
+- How to Publish an Indie Book: An Asymmetrical Guide by Colin Wright
+
+
+## CREATIVITY BOOKS
+
+- Steal Like an Artist by Austin Kleon
+- The Creativity Challenge: Design, Experiment, Test, Innovate, Build, Create, Inspire, and Unleash Your Genius by Tanner Christensen 
+
+## DEEP THINKING BOOKS
+
+- Out of Your Mind by Alan Watts
+- Maps of Meaning by Jordan Peterson
+- The Art of Thinking Clearly by Rolf Dobelli
+- Berserk by Kentaro Miura
+- Some Thoughts About Relationships by Colin Wright
+- Act Accordingly: A Philosophical Framework by Colin Wright
+
