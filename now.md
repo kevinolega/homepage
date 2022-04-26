@@ -17,9 +17,8 @@ permalink: now
 <h3>fitness</h3>
 <p>I follow a 5x5 strength protocol for squats, presses, and deadlifts. I also practice kettlebell swings and turkish getups.</p>
 <p>I slowly do bodyweight exercises like <a href="https://minimalchanges.com/grapplerfit">burpees, air squats, pull ups, and toes to bar</a>.</p>
-<!-- notes -->
 <h3>personal</h3>
-<p>I spend my mornings and afternoons hanging out with <a href="https://www.instagram.com/p/BqF7xlBlPSm/">Fluffy</a>, his son
+<p>I hang out with <a href="https://www.instagram.com/p/BqF7xlBlPSm/">Fluffy</a>,
 <a href="https://www.instagram.com/p/B4gpVKEn4ZS/">Kuromi</a>, <a href="https://www.instagram.com/p/CXO3HjyBQAz/"> Yuki</a>, and <a href="https://www.instagram.com/p/CNIfQyrH9lS/">Missy</a>, my friend's dog.</p>
 <p>I'm grateful I get to work from home.</p>
 <p>I spend my free time <a href="http://minimalchanges.com">blogging</a> and <a href="https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3">drawing</a>.</p>
