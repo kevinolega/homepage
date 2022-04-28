@@ -4,6 +4,7 @@ title: Kevin's Book Recommendations
 description: A list of books that I recommend
 permalink: book-r
 ---
+
 ### BUSINESS BOOKS
 
 - The Four Hour Workweek by Tim Ferriss
@@ -49,10 +50,26 @@ permalink: book-r
 - Awaken the Giant within by Anthony Robbins
 
 
+
+### SKILL BOOKS
+
+- The Four Hour Chef by Tim Ferriss
+- The Art of Learning by Josh Waitzkin
+- How to Read a Book: The Classic Guide to Intelligent Reading by d
+Mortimer J. Adler and Charles Van Doren
+- Gordon Ramsay's Home Cooking: Everything You Need to Know to Make Fabulous Food by Gordon Ramsay
+- 30 Minute Meals by Jamie Oliver
+- Heston Blumenthal at Home by Heston Blumenthal
+- Never Split the Difference: Negotiating as if Your Life Depended on It by Chris Voss and Michael Kramer
+- How to Travel Full-Time by Colin Wright
+- How to Publish an Indie Book: An Asymmetrical Guide by Colin Wright
+
+
 ### CREATIVITY BOOKS
 
 - Steal Like an Artist by Austin Kleon
 - The Creativity Challenge: Design, Experiment, Test, Innovate, Build, Create, Inspire, and Unleash Your Genius by Tanner Christensen 
+
 
 ### DEEP THINKING BOOKS
 
