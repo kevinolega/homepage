@@ -11,8 +11,8 @@ permalink: now
 <p><a href="https://olega.org/n/">I'm not accepting additional work and business proposals</a>.</p>
 <p>I operate from Parañaque City.</p>
 <h3>projects</h3>
-<p>I built a website to <a href="https://callcentertrainingtips.com">teaches basic job skills and allow low-income Filipinos to communicate confidently, qualify for high-paying jobs, and eventually become financially secure</a>.</p>
-<p>I'm working on improving my skills in project management and email marketing.</p>
+<p>I built <a href="https://callcentertrainingtips.com">Call Center Training Tips</a> to teach basic job skills and allow low-income Filipinos to communicate confidently, qualify for high-paying jobs, and eventually become financially secure.</p>
+<p>I'm working on improving my skills in project management, SEO, and email marketing.</p>
 <p>I rarely leave home and say <a href="https://olega.org/n">no to all invitations and requests</a>.</p>
 <h3>fitness</h3>
 <details>
