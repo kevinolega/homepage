@@ -25,7 +25,7 @@ I hope you’d find them useful.
 
 I’d love to help. However, I also have my own obligations like bills, loans, and other responsibilities.
 
-These days, I [say no to everything](https://olega.org/n)
+These days, I [say no to everything](https://olega.org/n).
 
 I hope this helps.
 
