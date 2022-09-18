@@ -10,7 +10,9 @@ Hi friend!
 
 I understand that you need money.
 
-Here are links that I hope you’d find useful.
+Here are links that I prepared for you.
+
+I hope you’d find them useful.
 
 1. Article: [How to track, manage, and save money using a notebook](https://minimalchanges.com/money-notebook).
 2. Article: [Side-Hustle ideas for extra income](https://minimalchanges.com/side-hustle)
