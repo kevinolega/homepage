@@ -20,10 +20,12 @@ I hope you’d find them useful.
 4. Guide: If you need more money, [consider freelancing for extra income](https://callcentertrainingtips.com/upwork)
 5. How-to Guide: [How to get a loan](https://www.wikihow.com/Get-a-Loan)
 6. [List of Philippine banks](https://en.wikipedia.org/wiki/List_of_banks_in_the_Philippines)
-7. Link: [BPI Personal Loans](https://www.bpi.com.ph/personalloan)} 
+7. Link: [BPI Personal Loans](https://www.bpi.com.ph/personalloan)
 6. Link: [BDO Personal loan](https://www.bdo.com.ph/mobile/personal/loans/personal-loan)
 
 I’d love to help. However, I also have my own obligations like bills, loans, and other responsibilities.
+
+These days, I [say no to everything](https://olega.org/n)
 
 I hope this helps.
 
