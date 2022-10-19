@@ -113,6 +113,204 @@ Latest session at the top.
 
 Learned how to take the back from closed guard.
 
-Tips: Learn as much as I can about closed guard. 
+- [ ] Tips: Learn as much as I can about closed guard. 
 
+---
+
+### 2022-10-13-Thursday
+
+**No Gi**
+
+1 Collar tie → Back take
+
+2 Collar tie → Single leg 
+
+3 Collar tie → arm drag
+
+4 Arm drag → back take
+
+5 Arm drag to back take to rear naked choke
+
+- V1 single arm
+- V2 traditional choke 
+
+Roll
+
+* Caught partner Kimura from guard
+* Partner let me work Rear naked choke + shoulder push
+* Partner let me work Americana from mount
+* Partner caught me in Five finger choke
+
+---
+
+### 2022-10-09
+
+Just notes
+
+White to blue belt = Focus on learning to escape bad positions and submissions 
+- Positional escapes 
+- Submission escapes 
+- Escapes into attack 
+- Delay attack. 
+
+Purple brown black 
+- Increase Offense 
+
+---
+
+## DATE UNKNOWN
+
+1. Getting past the legs. Hold down
+2. Side Control
+	+ Cross Face
+	+ Butt down
+	+ Knee Out (one knee pointing to hip, other knee pushing arm up)
+3. Side Conrtrol
+	* Repeat 2
+	* Grab collar
+	* Grab pants
+	* Push up
+	* Knee on Belly (maintain wide base with other knee pointing up)
+4. Open Guard
+	+ Knee on belly
+	- Side Control
+	- Knee on Belly
+
+Beginner roll: Goal Get to Side Control
+
+- Roll: Jonathan Fast switch
+- Roll Gold Bat: Remember to breathe. Don’t overcommit.
+- Carlo: Attempt cross face to undehook legs Side control, Ude furi undo the legs, Went to guard then half guard to stamina attrition
+
+- [ ] Need to figure out how to get past guard.
+
+---
+**All Levels Class**
+
+1. Sticky feet drills pommel
+2. Sticky feed drill block knww on belly
+3. Stick feet block hip cutting
+
+### 2022-10-01-Saturday
+
+Couldn’t go to Open Mat. Practiced moving with elbows open guard. Still had a difficult time maintaining proper open guard position.
+
+### 2022-09-30-Friday
+
+**Beginner’s Class:**
+
+1. Open Guard: Moving with your elbows
+2. Open Guard: Maintaining
+3. Open Guard: Technical Stand-Up
+
+Notes:
+- I need to get used to holding the guard position longer.
+- I can rock back and forth to conserve energy
+- Remember to breathe
+- Pull your knees closer, so you don’t expend as much energy. Holding your legs out longer exhausts your core faster. Only extend your legs if you need to. 
+
+- [ ] Coach Mike encouraged me to strengthen my core. Hollow rock, leg raise, L-Sit
+
+Note: Open mat is free. Doesn’t use up my 12 sessions.
+---
+
+### 2022-09-29-Thursday
+
+**No-Gi**
+
+1. Attacking Turtle: Getting into a hip-to-hip position
+	+ Remember to keep your outside foot away as you pivot.
+	+ Do not kneel.
+	+ Apply your body weight to your partner.
+
+2. Attacking Turtle: Getting into a hip-to-hip position → Putting your outside leg into their pocket, then pulling his outside leg to get to the back.
+	+ Pull the arm and shrimp to get to the back.
+
+3. Standing Collar Tie: Both pulling the neck down: Disengage using forearm →  Take the back ball and socket grip.
+
+4. Standing Collar Tie: Both pulling the neck down: Duck down and take single-leg while pushing with head.
+- Remember to push with your head.
+
+Rolling: 
+- Got caught with side control Americana
+- Got caught in side control armbar
+- Partner held turtle position to let me work on technique 2.
+- Don’t attempt to muscle your way out of a technique if you have a strength advantage.
+- Partner seems most vulnerable to push counter when they attempt full mount. Doesn't work too well after one successful attempt. Consumes too much stamina.  However, find a way to not get stuck in north-south
+
+Notes:
+
+**Gi: All skill levels class**
+
+1. Attacking Turtle: Getting into a hip-to-hip position
+2. Attacking Turtle: Getting into a hip-to-hip position → Putting your outside leg into their pocket, 
+3. Guard: 
+	+ Sweep
+	+ Break the grip
+	+ Break the posture by pulling the arm and pulling with your legs
+	+ Place your arm under the leg
+	+ Losen the guard
+	+ Step on the hip
+	+ Move your leg to execute the sweep
+	+ Back Take
+	+ Break the grip
+	+ Break the posture by pulling the arm and pulling with your legs
+	+ Shrimp out and adjust to take the back
+
+4. Guard: Break Grip
+	+ Option 1: Armbar
+	+ Option 2: Blood Choke
+
+Rolling:
+- Partner held turtle to let me work on technique 2
+- Caught partner with Kimura but couldn’t do it properly because of my wound.
+
+---
+
+### 2022-09-28-Wednesday
+
+**Beginner’s Class**
+
+1. Passing the guard 
+	+ Disengage their feet  
+	+ step with foot closest to hip
+	+ Get in parallel to their hip 
+
+2. Pass guard to side control 
+	+ push knees down 
+	+ Wrap arm behind partner's neck 
+	+ Hold their face close to your shoulder 
+	+ Place your center arm as wedge 
+	+ Use your arm below the partners neck to slide in and hold their armpit 
+	+ Control the head by maintaining head position between shoulder and arm controlling the armpit  
+3. Pass guard to mount 
+	+ Maintain control via the armpit 
+	+ Pull back to avoid resistance before you attempt mount 
+4. Passing guard to mount freestyle 
+	+ Pushing their hip when they attempt to mount works, but I lack the energy to do anything after. 
+
+### 2022-09-26-Monday
+
+**Jujitsu beginners class**
+
+1. Open Guard Drills 
+	+ Move with elbows
+	+ Raise your hips
+	+ Use legs to prevent mount or side control 
+2. Foot on hip 
+	+ Prevents partner from moving forward. 
+	+ Expends less energy as you keep you partner in front of your legs
+3. Push leg with arm 
+	+ Post arm on the outer leg as if you're going to shrimp 
+	+ Reset with legs in from of partner 
+4. Push with legs then technical stand up 
+	+ Push with both your legs 
+	+ Post your arm
+	+ Stand with the same side leg as posting arm  
+	+ Guard by extending your other arm forward  
+	+ Face partner at all times 
+
+Notes: 
+Coach Enzo is getting us familiar with how to defend.
+Maintaining open guard requires stamina. I need to get used to activating my core.
 ---
