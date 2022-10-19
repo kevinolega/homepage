@@ -158,7 +158,7 @@ Purple brown black
 
 ---
 
-## DATE UNKNOWN
+### DATE UNKNOWN
 
 1. Getting past the legs. Hold down
 2. Side Control
@@ -185,6 +185,7 @@ Beginner roll: Goal Get to Side Control
 - [ ] Need to figure out how to get past guard.
 
 ---
+
 **All Levels Class**
 
 1. Sticky feet drills pommel
@@ -212,6 +213,7 @@ Notes:
 - [ ] Coach Mike encouraged me to strengthen my core. Hollow rock, leg raise, L-Sit
 
 Note: Open mat is free. Doesn’t use up my 12 sessions.
+
 ---
 
 ### 2022-09-29-Thursday
@@ -313,4 +315,5 @@ Rolling:
 Notes: 
 Coach Enzo is getting us familiar with how to defend.
 Maintaining open guard requires stamina. I need to get used to activating my core.
+
 ---
