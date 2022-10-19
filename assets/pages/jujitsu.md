@@ -17,7 +17,7 @@ Setup → Position → Submission? Does this apply to all techniques?
 | 1. Back         | Rear naked choke                    | Remove hook roll to turtle |
 | 2. Side Control | Americana                           | Frame and shrimp           |
 | 3. Mount        | Americana                           | Trap and Roll              |
-| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break                |
+| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break, Push leg then move sideways guard pass                |
 | 5. Half-Guard   | Empty                               | Empty                      |
 
 ### Jujitsu Log
