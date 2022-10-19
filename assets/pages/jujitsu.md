@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: Jujitsu Diary
+title: Jujitsu
 date: 2022-10-20 00:15
 permalink: jj
 author: Kevin Olega 
@@ -10,15 +10,29 @@ author: Kevin Olega
 
 Setup → Position → Submission? Does this apply to all techniques?
 
+### Move List
+
+|   **Position**  |             **Offense**             |         **Defense**        |
+|:---------------:|:-----------------------------------:|:--------------------------:|
+| 1. Back         | Rear naked choke                    | Remove hook roll to turtle |
+| 2. Side Control | Americana                           | Frame and shrimp           |
+| 3. Mount        | Americana                           | Trap and Roll              |
+| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break                |
+| 5. Half-Guard   | Empty                               | Empty                      |
+
+### Jujitsu Log
+
+Latest session at the top.
+
 ### 2022-10-29 - Wednesday
 
-**Beginner's Class**
+**Beginners Class**
 
 - Arm Bar from closed guard 1
 	+ Setup
 		* Grab one sleeve with both hands and pull toward the front of your face
 		* Trap the tricep with one arm and the wrist under your opposite arm.
-	+ Positon
+	+ Position
 		* Grab the collar and pull down.
 		* Open your guard
 		* Bite down the traps with your other leg
@@ -40,7 +54,7 @@ Setup → Position → Submission? Does this apply to all techniques?
 		* Position the hand with the thumb opposite the elbow.
 		* Move the hand toward the elbow.
 
-**All Level's Class**
+**All Levels Class**
 
 - Escaping North South Bearhug from Turtle Position
 	+ Trap the arm on the same side that you're escaping toward.
@@ -75,3 +89,30 @@ Setup → Position → Submission? Does this apply to all techniques?
 	+ Eventually ran out of stamina and fell under side control.
 	+ Attempted to use the side control escape that we learned recently.
 	+ Unable to escape side control and time ran out.
+	
+---
+### 2022-10-14-Friday
+
+1 Breaking Guard 1
+
+- Stand up
+- Knee to the butt
+- Sit back
+
+2 Breaking Guard 2
+
+- Twist to one side
+- Hand on Knee
+- Opposite hand on the hop
+- Twist to the opposite side while standing up
+
+3 Breaking guard 2 
+
+- Kimura
+- Back take then Choke
+
+Learned how to take the back from closed guard.
+
+Tips: Learn as much as I can about closed guard. 
+
+---
