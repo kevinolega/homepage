@@ -189,7 +189,7 @@ Beginner roll: Goal Get to Side Control
 **All Levels Class**
 
 1. Sticky feet drills pommel
-2. Sticky feed drill block knww on belly
+2. Sticky feed drill block knee on belly
 3. Stick feet block hip cutting
 
 ### 2022-10-01-Saturday
@@ -313,7 +313,7 @@ Rolling:
 	+ Face partner at all times 
 
 Notes: 
-Coach Enzo is getting us familiar with how to defend.
-Maintaining open guard requires stamina. I need to get used to activating my core.
+* Coach Enzo is getting us familiar with how to defend.
+* Maintaining open guard requires stamina. I need to get used to activating my core.
 
 ---
