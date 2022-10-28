@@ -25,7 +25,7 @@ author: Kevin Olega
 | 1. Back         | Rear naked choke                    | Remove hook roll to turtle |
 | 2. Side Control | Armbar, Americana (add Kimura)      | Frame and shrimp           |
 | 3. Mount        | Armbar, Americana                   | Trap and Roll              |
-| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break, Push leg → move sideways guard pass (learn knee cut)               |
+| 4. Guard        | Armbar, Kimura, Triangle, Escape to back take | Guard Break, Push leg → move sideways guard pass (learn knee cut)               |
 | 5. Half-Guard   | Empty                               | Empty                      |
 
 ### Jujitsu Log
