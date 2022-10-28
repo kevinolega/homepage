@@ -36,11 +36,11 @@ Latest session at the top.
 
 **Beginner:**
 
-1: Americana from Mount
+1. Americana from Mount
 	* Hold the wrist and elbow when the partner defends → Drop your weight.
 	* C-grip (no thumbs)
 	* Slide free arm from under the triceps to complete the lock
-2: Armbar from Mount
+2. Armbar from Mount
 	* When partner defends → One arm over + One arm under
 	* Slide one knee to close to the partner's head
 	* Keep your weight on your partner
@@ -49,17 +49,17 @@ Latest session at the top.
 		- Keep the weight on the partner by balancing forward as you have a tendency to pull all the weight backward leaving your front open with zero pressure when you move your legs into position.
 	* Hug both your partner's arms.
 	* Place your other leg on top of your partner → Secure the shoulder and apply armbar.
-3: Americana from mount variation partner straightens the arm. 
+3. Americana from mount variation partner straightens the arm. 
 	* Same as #1 but partner straightens arm as you apply Americana
 	* Maintain C-grip with free arm under triceps and allow the partner to straighten arm. 
 	* Apply pressure to wrist of the straight arm. Technique will be felt on the elbow.
 
 **All levels:**
 
-1: Armbar from Guard
-2: Armbar to Omoplata
-3: Omoplata to forward roll
-4: Omoplata → Partner executes forward roll counter → Execute forward roll counter → close with armbar or wrist lock 
+1. Armbar from Guard
+2. Armbar to Omoplata
+3. Omoplata to forward roll
+4. Omoplata → Partner executes forward roll counter → Execute forward roll counter → close with armbar or wrist lock 
 
 ### 2022-10-27 - Thursday
 
