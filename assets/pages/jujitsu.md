@@ -8,30 +8,112 @@ author: Kevin Olega
 
 ### Questions?
 
-Setup → Position → Submission? Does this apply to all techniques?
+* Setup → Position → Submission? Does this apply to all techniques?
+
+### Issues
+
+* I only have one side-control escape.
+* I only have one escape from under full mount.
+* Basic submissions aren't muscle memory yet. Need more drilling. 
+* Beginners can interrupt me and cancel my submission attempt while I'm trying to remember the next step of the submission.
+* I attempt submissions from the wrong positions (often when the position changes I commit to a submission I decided on)
 
 ### Move List
 
 |   **Position**  |             **Offense**             |         **Defense**        |
 |:---------------:|:-----------------------------------:|:--------------------------:|
 | 1. Back         | Rear naked choke                    | Remove hook roll to turtle |
-| 2. Side Control | Americana                           | Frame and shrimp           |
-| 3. Mount        | Americana                           | Trap and Roll              |
-| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break, Push leg then move sideways guard pass                |
+| 2. Side Control | Armbar, Americana (add Kimura)      | Frame and shrimp           |
+| 3. Mount        | Armbar, Americana                   | Trap and Roll              |
+| 4. Guard        | Kimura, Triangle, Escape to back take | Guard Break, Push leg → move sideways guard pass (learn knee cut)               |
 | 5. Half-Guard   | Empty                               | Empty                      |
 
 ### Jujitsu Log
 
 Latest session at the top.
 
-### 2022-10-29 - Wednesday
+### 2022-10-28 - Friday
+
+**Beginner:**
+
+1: Americana from Mount
+	* Hold the wrist and elbow when the partner defends → Drop your weight.
+	* C-grip (no thumbs)
+	* Slide free arm from under the triceps to complete the lock
+2: Armbar from Mount
+	* When partner defends → One arm over + One arm under
+	* Slide one knee to close to the partner's head
+	* Keep your weight on your partner
+	* Push down (Push up)
+	* Legs will make an S-position
+		- Keep the weight on the partner by balancing forward as you have a tendency to pull all the weight backward leaving your front open with zero pressure when you move your legs into position.
+	* Hug both your partner's arms.
+	* Place your other leg on top of your partner → Secure the shoulder and apply armbar.
+3: Americana from mount variation partner straightens the arm. 
+	* Same as #1 but partner straightens arm as you apply Americana
+	* Maintain C-grip with free arm under triceps and allow the partner to straighten arm. 
+	* Apply pressure to wrist of the straight arm. Technique will be felt on the elbow.
+
+**All levels:**
+
+1: Armbar from Guard
+2: Armbar to Omoplata
+3: Omoplata to forward roll
+4: Omoplata → Partner executes forward roll counter → Execute forward roll counter → close with armbar or wrist lock 
+
+### 2022-10-27 - Thursday
+
+**No Gi Session**
+
+1. Collar tie to back take
+2. Collar tie to sweep
+3. Collar tie to sweep to single leg
+4. Foot lock entry
+	* Partner's legs in your armpit
+	* One leg over the hip | Other leg between partner's legs.
+	* Remember to pinch the knee with your legs
+5. Foot lock entry to take down
+6. Foot lock entry to take down to apply foot lock.
+
+### 2022-10-26 - Wednesday
+
+1. Armbar 
+	* Pull the arm
+	* Pull the sleeve and elbow (alt pull both elbows to break posture)
+	* Step on the hip
+	* Twist to the side
+	* Bite down with your leg
+	* Put the other leg over your partner
+	* Apply technique
+2. Armbar to Omoplata Setup
+	* Move the partners hand toward the opposite of your center line
+	* Pull your leg down to Omoplata.
+		- Identical to Ikkyo immobilization (with partner in the same end position) except the lock is held by both your arms and legs
+		- Your other arm needs to be on their hip so partner can't counter with a forward roll.
+3. Armbar to Omoplata Full Lock
+	* Same step 1 and 2
+	* Finish by moving your legs to the other side so you can rise up.
+	* Grab the hip
+	* Get partner's hip flat. But scoot backwards (or to the side) so they move to bring down their hip.
+	* Pull their armpit (or back of the lapel) as you slowly rise and apply the lock.
+4. Omoplata wrist lock variation 
+	* Steps 1-3
+	* Finish with Ikkyo lock the wrist as if you are bending their wrist and closing the fist.
+	* You can apply the lock to their wrist or elbow or apply to both hand and elbow. 
+
+
+
+### 2022-10-19 - Wednesday
+
+
+### 2022-10-19 - Wednesday
 
 **Beginners Class**
 
 - Arm Bar from closed guard 1
 	+ Setup
 		* Grab one sleeve with both hands and pull toward the front of your face
-		* Trap the tricep with one arm and the wrist under your opposite arm.
+		* Trap the triceps with one arm and the wrist under your opposite arm.
 	+ Position
 		* Grab the collar and pull down.
 		* Open your guard
@@ -42,7 +124,7 @@ Latest session at the top.
 		* Keep your knees closed together.
 		* Hold the hand in a thumbs up position
 		* Hip up and apply the arm bar.
-- Arm Bar from colosed guard 2
+- Arm Bar from closed guard 2
 	+ Setup
 		* Grab both sleeves
 		* Pull one sleeve up to the front of your shoulder and push one sleeve down to the hip
@@ -50,13 +132,13 @@ Latest session at the top.
 		* Hip up to a diamond lock.
 		* Keep your knees close together.
 	+ Submission
-		* Move the arm outside the centerline
+		* Move the arm outside the center line
 		* Position the hand with the thumb opposite the elbow.
 		* Move the hand toward the elbow.
 
 **All Levels Class**
 
-- Escaping North South Bearhug from Turtle Position
+- Escaping North South Bear hug from Turtle Position
 	+ Trap the arm on the same side that you're escaping toward.
 	+ Take the back
 	+ Transition to north south bear hug
@@ -66,47 +148,97 @@ Latest session at the top.
 -  Side Control Escape to Forward Sweep 1
 -  Side Control Escape to Forward Sweep 2
 -  Side Control Escape to Reverse Sweep
+---
 
-**Roll**
-- Partner 1
-	+ Was able to pass guard after partner's triangle attempt but wasn't able to maintain position.
-	+ Unable to catch partner with kimura
-	+ Escape side control by rolling but ended up in a compormised back position.
-- Partner 2
-	+ Pushing weight down when partner attempted triangle.
-	+ Was able to pass guard but unable to maintain position.
-	+ Ended up putting partner in closed guard and holding until the end.
-	+ Was unable to catch partner with kimura.
-	+ Wrist lock and submission attempts are ineffective if you forget to pull them with their legs to break their posture. You can't muscle people into a lock or submission.
-- Partner 3
-	+ Parner helped me work on my guard pass to side control.
-	+ I can't push the leg up if partner's leg is hooked onto me in some form.
-	+ Ran out of stamina and unable to continue.
-- Partner 4
-	+ Held closed guard until time ran out.
-	+ Forgot to break posture before attempted submission.
-	+ Wristlock distraction to kimura seems to be effective if you break the posture (I did not break the posture) also attempted it while in closed guard and hanging from my partner.
-	+ Eventually ran out of stamina and fell under side control.
-	+ Attempted to use the side control escape that we learned recently.
-	+ Unable to escape side control and time ran out.
+### 2022-10-20 - Thursday
+
+**No Gi - Beginners Class**
+
+1. Start at Turtle with partner holding me with reverse bearhug
+	- Sit out get to bear hug reverse. 
+2. Side control to half guard.
+3. Side control to half guard to sweep
+	- Forward Sweep
+	- Backward sweep. 
+
+**No Gi - All Levels**
+
+1. Half Guard to Deep Half Position
+	- Fish your arm under their leg.
+	- Stand up with our knees parallel
+	- Fish your arm under their leg.
+	- Sweep or put partner in a deep half position.
 	
+---
+### 2022-10-19 - Wednesday
+
+**Beginners Class**
+
+1. Start at Turtle with partner holding me with reverse bearhug
+	- Sit out get to bear hug reverse. 
+2. Armbar from closed guard
+	* Pull arm
+	* Slide the arm
+	* Step on the hip
+	* Bite with your leg
+	* Twist to the side
+3. Armbar variation - Pull both arms
+	* One arm forward one arm to partner's hip
+	* Place the pulled arm to the opposite of your center line
+	* Jump up
+	* Bite leg 
+	* Twist
+	* Keep knees together
+	* Apply armbar
+
+**All Levels Class**
+
+1. Side control to half guard
+	* Put your elbow inside partner's pocket area
+	* Frame with knee
+	* Frame with elbow
+	* Push
+	* End with one hand controlling the shoulder and other hand controlling the elbow and your other leg controlling the other shoulder
+2. Half Guard Sweep Hip Forward Variation
+	* Start with 1
+	* Rise up and swim your arm to under hook grab the lapel.
+	* Pull partner's knee toward you and rise up to sweep.
+2. Half Guard Sweep Slide your head
+	* Start with 1
+	* Rise up and swim your arm to under hook grab the lapel.
+	* Slide your head under partner's armpit and pull the knee to execute sweep.
+
+3. Half Guard Sweep Backward Punch Up Variation
+	* Start with 1
+	* Rise up and swim your arm to under hook grab the lapel.
+	* Grab partner's pant leg knee drop back and punch up to sweep.
+
+3. Half Guard to dogfight
+	* Start with 1
+	* Rise up and swim your arm to under hook grab the lapel.
+	* Grab partner's knee drop and switch your knees to a parallel position.
+
+I'm probably remembering the sequence and variations wrong.
+
 ---
 ### 2022-10-14-Friday
 
-1 Breaking Guard 1
+Coach Ivan
+
+1. Breaking Guard 1
 
 - Stand up
 - Knee to the butt
 - Sit back
 
-2 Breaking Guard 2
+2. Breaking Guard 2
 
 - Twist to one side
 - Hand on Knee
 - Opposite hand on the hop
 - Twist to the opposite side while standing up
 
-3 Breaking guard 2 
+3. Breaking guard 2 
 
 - Kimura
 - Back take then Choke
@@ -134,27 +266,6 @@ Learned how to take the back from closed guard.
 - V1 single arm
 - V2 traditional choke 
 
-Roll
-
-* Caught partner Kimura from guard
-* Partner let me work Rear naked choke + shoulder push
-* Partner let me work Americana from mount
-* Partner caught me in Five finger choke
-
----
-
-### 2022-10-09
-
-Just notes
-
-White to blue belt = Focus on learning to escape bad positions and submissions 
-- Positional escapes 
-- Submission escapes 
-- Escapes into attack 
-- Delay attack. 
-
-Purple brown black 
-- Increase Offense 
 
 ---
 
@@ -165,7 +276,7 @@ Purple brown black
 	+ Cross Face
 	+ Butt down
 	+ Knee Out (one knee pointing to hip, other knee pushing arm up)
-3. Side Conrtrol
+3. Side Control
 	* Repeat 2
 	* Grab collar
 	* Grab pants
@@ -179,8 +290,8 @@ Purple brown black
 Beginner roll: Goal Get to Side Control
 
 - Roll: Jonathan Fast switch
-- Roll Gold Bat: Remember to breathe. Don’t overcommit.
-- Carlo: Attempt cross face to undehook legs Side control, Ude furi undo the legs, Went to guard then half guard to stamina attrition
+- Roll Gold Bat: Remember to breathe. Don't over commit.
+- Carlo: Attempt cross face to undertook legs Side control, Ude furi undo the legs, Went to guard then half guard to stamina attrition
 
 - [ ] Need to figure out how to get past guard.
 
@@ -192,13 +303,12 @@ Beginner roll: Goal Get to Side Control
 2. Sticky feed drill block knee on belly
 3. Stick feet block hip cutting
 
-### 2022-10-01-Saturday
-
-Couldn’t go to Open Mat. Practiced moving with elbows open guard. Still had a difficult time maintaining proper open guard position.
 
 ### 2022-09-30-Friday
 
-**Beginner’s Class:**
+End of free trial week.
+
+**Beginners Class:**
 
 1. Open Guard: Moving with your elbows
 2. Open Guard: Maintaining
@@ -208,15 +318,17 @@ Notes:
 - I need to get used to holding the guard position longer.
 - I can rock back and forth to conserve energy
 - Remember to breathe
-- Pull your knees closer, so you don’t expend as much energy. Holding your legs out longer exhausts your core faster. Only extend your legs if you need to. 
+- Pull your knees closer, so you don't expend as much energy. Holding your legs out longer exhausts your core faster. Only extend your legs if you need to. 
 
 - [ ] Coach Mike encouraged me to strengthen my core. Hollow rock, leg raise, L-Sit
 
-Note: Open mat is free. Doesn’t use up my 12 sessions.
+Note: Open mat is free. Doesn't use up my 12 sessions.
 
 ---
 
 ### 2022-09-29-Thursday
+
+Free trial week.
 
 **No-Gi**
 
@@ -233,12 +345,6 @@ Note: Open mat is free. Doesn’t use up my 12 sessions.
 4. Standing Collar Tie: Both pulling the neck down: Duck down and take single-leg while pushing with head.
 - Remember to push with your head.
 
-Rolling: 
-- Got caught with side control Americana
-- Got caught in side control armbar
-- Partner held turtle position to let me work on technique 2.
-- Don’t attempt to muscle your way out of a technique if you have a strength advantage.
-- Partner seems most vulnerable to push counter when they attempt full mount. Doesn't work too well after one successful attempt. Consumes too much stamina.  However, find a way to not get stuck in north-south
 
 Notes:
 
@@ -251,7 +357,7 @@ Notes:
 	+ Break the grip
 	+ Break the posture by pulling the arm and pulling with your legs
 	+ Place your arm under the leg
-	+ Losen the guard
+	+ Loosen the guard
 	+ Step on the hip
 	+ Move your leg to execute the sweep
 	+ Back Take
@@ -265,13 +371,15 @@ Notes:
 
 Rolling:
 - Partner held turtle to let me work on technique 2
-- Caught partner with Kimura but couldn’t do it properly because of my wound.
+- Caught partner with Kimura but couldn't do it properly because of my wound.
 
 ---
 
 ### 2022-09-28-Wednesday
 
-**Beginner’s Class**
+Free trial week.
+
+**Beginners Class**
 
 1. Passing the guard 
 	+ Disengage their feet  
@@ -292,6 +400,8 @@ Rolling:
 	+ Pushing their hip when they attempt to mount works, but I lack the energy to do anything after. 
 
 ### 2022-09-26-Monday
+
+Start of free trial week.
 
 **Jujitsu beginners class**
 
