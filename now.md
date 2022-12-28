@@ -14,16 +14,19 @@ permalink: now
 <p>I built <a href="https://callcentertrainingtips.com">Call Center Training Tips</a> to teach basic job skills and allow low-income Filipinos to communicate confidently, qualify for high-paying jobs, and eventually become financially secure.</p>
 <p>I'm working on improving my skills in project management, SEO, video, and email marketing.</p>
 <p>I rarely leave home and say <a href="https://olega.org/n">no to all invitations and requests</a>.</p>
-
+<h3>fitness</h3>
 <details>
-	<summary><h3>fitness</h3></summary>
+	<summary><p>Click to learn more about how I try to stay fit.</p></summary>
 	<br>
 <p>I follow a 5x5 strength protocol for squats, presses, and deadlifts. I also practice kettlebell swings and turkish getups.</p>
 <p>I slowly do bodyweight exercises like <a href="https://minimalchanges.com/grapplerfit">burpees, air squats, pull ups, and toes to bar</a>.</p>
 </details>
+<h3>personal</h3>
 <details>
-	<summary><h3>personal</h3></summary>
+	<summary><p>Click to learn more about my other activities.</p></summary>
 	<br>
+<p>I'm training to ride 100 km at Audax.</p>
+<p>I'm trying to learn Brazillian Jujitsu.</p>
 <p>I hang out with <a href="https://www.instagram.com/p/BqF7xlBlPSm/">Fluffy</a>,
 <a href="https://www.instagram.com/p/B4gpVKEn4ZS/">Kuromi</a>, <a href="https://www.instagram.com/p/CXO3HjyBQAz/"> Yuki</a>, and <a href="https://www.instagram.com/p/CNIfQyrH9lS/">Missy</a>, my friend's dog.</p>
 <p>I'm grateful I get to work from home.</p>
