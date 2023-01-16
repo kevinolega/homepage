@@ -18,6 +18,16 @@ author: Kevin Olega
 * Beginners can interrupt me and cancel my submission attempt while I'm trying to remember the next step of the submission.
 * I attempt submissions from the wrong positions (often when the position changes I commit to a submission I decided on)
 
+### Missing from my Jiujitsu.
+
+* Escaping back take
+* What to do from turtle
+* Second mount escape
+
+## Traps
+
+* From full-mount: Allow sweep to get a Kimura from guard.
+
 ### Move List
 
 |   **Position**  |             **Offense**             |         **Defense**        |
@@ -26,7 +36,7 @@ author: Kevin Olega
 | 2. Side Control | Armbar, Americana (add Kimura)      | Frame and shrimp           |
 | 3. Mount        | Armbar, Americana                   | Trap and Roll              |
 | 4. Guard        | Armbar, Kimura, Triangle, Escape to back take | Guard Break, Push leg → move sideways guard pass (learn knee cut)               |
-| 5. Half-Guard   | Empty                               | Empty                      |
+| 5. Half-Guard   | Omoplata                            | Empty                      |
 
 ### Jujitsu Log
 
