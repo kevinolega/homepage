@@ -24,7 +24,7 @@ author: Kevin Olega
 * What to do from turtle
 * Second mount escape
 
-## Traps
+### Traps
 
 * From full-mount: Allow sweep to get a Kimura from guard.
 
