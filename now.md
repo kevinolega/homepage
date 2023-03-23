@@ -18,8 +18,11 @@ permalink: now
 <details>
 	<summary><p>Click to learn more about how I try to stay fit.</p></summary>
 	<br>
+<p>I walk my dogs for about an hour daily.</p>
 <p>I follow a 5x5 strength protocol for squats, presses, and deadlifts. I also practice kettlebell swings and turkish getups.</p>
 <p>I slowly do bodyweight exercises like <a href="https://minimalchanges.com/grapplerfit">burpees, air squats, pull ups, and toes to bar</a>.</p>
+<p>I ride my bike.</p>
+<p>I train Brazilian Jiujitsu twice a week.</p>
 </details>
 <h3>personal</h3>
 <details>
