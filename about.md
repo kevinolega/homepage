@@ -99,6 +99,9 @@ As of April 2017, my work queue is presently full and as a result, I'm currently
 
 I'm a fitness enthusiast who loves CrossFit, cycling and martial arts.
 
+![Here's a photo of Kevin after CrossFit]({{ site.url }}/images/Kevin-BW-Crossfit.jpg).
+
+
 * I walk my dogs for about an hour daily.
 * I follow a 5x5 strength protocol for squats, presses, and deadlifts.
 * I also practice kettlebell swings and turkish getups.
@@ -108,7 +111,6 @@ I'm a fitness enthusiast who loves CrossFit, cycling and martial arts.
 * I practice <a href="https://www.instagram.com/olegajitsu/">Brazilian Jiu-Jitsu</a> twice a week.
 
 ![Here's a photo of Kevin with a medal]({{ site.url }}/images/Kevin-BW-medal.jpg).
-![Here's a photo of Kevin after CrossFit]({{ site.url }}/images/Kevin-BW-Crossfit.jpg).
 ![Here's a photo of Kevin performing a headlock]({{ site.url }}/images/Kevin-BW-headlock.jpg).
 
 ### Personal Projects
@@ -146,5 +148,7 @@ I spend most of my free time training in a CrossFit box, blogging, drawing or ta
 - Got over my depression by learning to manipulate my physical state through optimal body mechanics, breathing techniques, cold exposure and other physical adjustments as well as studying and adapting Stoic philosophy as well as the work of Tim Ferriss, [Derek Sivers](http://sivers.org), Tony Robbins, Jordan Peterson and Alan Watts.
 - Learned how to drive.
 - Adopted a dog. My dog became a father. 
+
+### Photos
 
 {% include last-update.html %}
