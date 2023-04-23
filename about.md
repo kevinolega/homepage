@@ -107,6 +107,9 @@ I'm a fitness enthusiast who loves CrossFit, cycling and martial arts.
 * I have participated in long-distance cycling events, riding over 100km in Subic and Batangas.
 * I practice <a href="https://www.instagram.com/olegajitsu/">Brazilian Jiu-Jitsu</a> twice a week.
 
+![Here's a photo of Kevin with a medal]({{ site.url }}/images/Kevin-BW-medal.jpg).
+![Here's a photo of Kevin after CrossFit]({{ site.url }}/images/Kevin-BW-Crossfit.jpg).
+![Here's a photo of Kevin performing a headlock]({{ site.url }}/images/Kevin-BW-headlock.jpg).
 
 ### Personal Projects
 
