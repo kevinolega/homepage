@@ -128,7 +128,7 @@ I spend most of my free time training in a CrossFit box, blogging, drawing or ta
 
 - I now live with four adorable rescue dogs.
 
-### Past Wins Wins
+### Past Wins
 
 -  I competed in two inter-box CrossFit competitions one for PR City CrossFit and one with Primal Ape CrossFit and did better than I expected. The experience helped me discover that I can do more than 40 pull ups, do 83 burpees in seven minutes, do more than 50 wall ball shots in less than ten minutes, unlocked my power clean and lift giant tires. The experience gave me a lot of confidence in my physical abilities, and more importantly my ability to prepare and select the right strategy. I also learned that a calm and steady pace beats sprinting all the time and had allowed me to win and lose gracefully against insanely stronger competitors.
 - I competed in two CrossFit Total weightlifting events. I started lifting a maximum of 130 lbs and can now deadlift 365 lbs.
