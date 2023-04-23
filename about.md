@@ -70,6 +70,8 @@ Want more?
 
 ### Work Projects
 
+I work as a digital project manager, overseeing the creation and development of websites and digital marketing campaigns. My role includes optimizing email newsletters, social media, and video services to grow audiences, conducting SEO keyword research, and planning and creating content to enhance search engine rankings.
+
 I make my living helping entrepreneurs implement their business ideas by working as their Project Manager. 
 
 I previously worked as an assistant and a ghostwriter.
@@ -88,19 +90,29 @@ If you’re interested in hiring me please visit my [UpWork](http://www.upwork.c
 
 As of April 2017, my work queue is presently full and as a result, I'm currently rejecting offers for jobs, business and investments.
 
+### Personal Preference and Philosophy
+
+* I try to approach difficult tasks with a gameful mindset. Many of my wins are a result of this strategy. Anything I take too seriously ends in failure.
+* I do my best to live like a minimalist, I focus on owning less and making sure every item I own fits my strategy and preferred lifestyle.
+
+### Fitness
+
+I'm a fitness enthusiast who loves CrossFit, cycling and martial arts.
+
+* I walk my dogs for about an hour daily.
+* I follow a 5x5 strength protocol for squats, presses, and deadlifts.
+* I also practice kettlebell swings and turkish getups.
+* I slowly do bodyweight exercises like <a href="https://minimalchanges.com/grapplerfit">burpees, air squats, pull ups, and toes to bar</a>.
+* I enjoy riding my bike around the city.
+* I have participated in long-distance cycling events, riding over 100km in Subic and Batangas.
+* I practice <a href="https://www.instagram.com/olegajitsu/">Brazilian Jiu-Jitsu</a> twice a week.
+
+
 ### Personal Projects
 
-I'm a workaholic. Yes. But aside from work related activities I also have personal projects and many of it actually looks like work.
 
 I spend most of my free time training in a CrossFit box, blogging, drawing or taking my bike out of town.
 
-I currently live in Parañaque, Philippines in case you're wondering.
-
-I do my best to play around with what I'm doing. 
-
-Because based on experience, most of my big wins are a result in a gameful mindset 
-
-And taking anything too seriously often ends in failure.
 
 *   I am building a [personal development guide for call center workers](http://www.callcentertrainingtips.com/start) and managing a small social media community to help minimum wage Filipinos and high school graduates qualify for higher paying jobs. This is my primary form of community service.
 *   Since health became my priority, I'm making a concious effort to sleep eight hours a day, drink water and [exercise](https://philippineislandliving.com/prcity) everyday.
@@ -114,6 +126,10 @@ And taking anything too seriously often ends in failure.
 
 ### Recent Wins
 
+- I now live with four adorable rescue dogs.
+
+### Past Wins Wins
+
 -  I competed in two inter-box CrossFit competitions one for PR City CrossFit and one with Primal Ape CrossFit and did better than I expected. The experience helped me discover that I can do more than 40 pull ups, do 83 burpees in seven minutes, do more than 50 wall ball shots in less than ten minutes, unlocked my power clean and lift giant tires. The experience gave me a lot of confidence in my physical abilities, and more importantly my ability to prepare and select the right strategy. I also learned that a calm and steady pace beats sprinting all the time and had allowed me to win and lose gracefully against insanely stronger competitors.
 - I competed in two CrossFit Total weightlifting events. I started lifting a maximum of 130 lbs and can now deadlift 365 lbs.
 - I learned the joys of cycling and have gone on a few hundred kilometer rides. 
@@ -123,6 +139,6 @@ And taking anything too seriously often ends in failure.
 - Built a home office so I can work remotely.
 - Got over my depression by learning to manipulate my physical state through optimal body mechanics, breathing techniques, cold exposure and other physical adjustments as well as studying and adapting Stoic philosophy as well as the work of Tim Ferriss, [Derek Sivers](http://sivers.org), Tony Robbins, Jordan Peterson and Alan Watts.
 - Learned how to drive.
-- Adopted a dog. My dog became a father.
+- Adopted a dog. My dog became a father. 
 
 {% include last-update.html %}
