@@ -111,6 +111,9 @@ I'm a fitness enthusiast who loves CrossFit, cycling and martial arts.
 ### Personal Projects
 
 
+
+<p>I created <a href="https://callcentertrainingtips.com">Call Center Training Tips</a> with the mission of helping low-income Filipinos acquire basic job skills and become financially secure. Through the website and video tutorials, I provide comprehensive training in communication and customer service, preparing students to qualify for high-paying jobs. In addition, I offer personalized mentoring to dedicated students, helping them achieve their career goals.</p>
+
 I spend most of my free time training in a CrossFit box, blogging, drawing or taking my bike out of town.
 
 
