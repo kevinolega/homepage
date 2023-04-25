@@ -1,7 +1,7 @@
 ---
 layout: page
 title: kevin olega now
-description: What exactly Kevin is doing now? Kevin's regular updates regularly.
+description: Explore Kevin's latest updates on his Now Page! Get a sneak peek into his ongoing projects, activities, and what he's up to.
 permalink: now
 ---
 {% include now-greeting.html %}
