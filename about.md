@@ -17,9 +17,7 @@ Please visit my [Now Page to find out what I'm doing now](https://olega.org/now)
 
 ### SUMMARY
 
-I enjoy writing and making things on the web since 2005.
-
-I have a mix of different skills and interests.
+I work on web development projects and run online businesses. I love writing and creating content. My websites help others, and I balance my life with activities like walking my dogs, cycling, CrossFit, and martial arts. I'm practicing minimalism and say no to most proposals, offers, and invitations to maintain focus on my work.
 
 ### FREELANCE WORK
 
@@ -30,6 +28,9 @@ I have a mix of different skills and interests.
 [Professional Website](https://kevinolega.com/xp)
 
 ### ONLINE WRITING
+
+I enjoy writing and making things on the web since 2005.
+
 
 **Minimal Changes Blog:** In 2010, I launched [Minimal Changes](http://minimalchanges.com), a website where I document my personal experiments in developing a minimalist lifestyle. I share strategies I've tested on myself to achieve free time, spare cash, a clear head, and effortless productivity. It's been an exciting journey!
 
