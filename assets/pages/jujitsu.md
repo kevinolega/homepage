@@ -13,7 +13,7 @@ author: Kevin Olega
 | 1. Back         | RNC (Kimura grip armbar)            | Allow choke but break mechanics 	 |
 | 2. Side Control | Kesa Gatame (bread cutter finish)   | Underhook to NS, Lapel punch       |
 | 3. Mount        | Americana, Jump to Side Control       | Trap & Roll, Tight Elbow Under   |
-| 4. Guard        | Kimura, Cross-Collar Choke, Escape to back take |                |
+| 4. Guard        | Kimura, Cross-Collar Choke, Escape to back take |Posture up, wait for armbar or triangle attempt                |
 | 5. Half-Guard   | Omoplata, Baseball Choke            | Baseball choke                      |
 | 6. Takedown     | Single Leg, 2 on 1 to Anklepick     | Kimura nage                   |
 | 7. Guard Pass   | Armpit Kick, Force Halfguard, Overunder, Knee Cut, Torreando | EMPTY |
@@ -59,6 +59,20 @@ author: Kevin Olega
 - Cross collar choke (from closed guard) get used
 - Full Guard Chokes
 
+### Bad Habits
+
+- Will attempt Sankyo wristlock while escaping RNC. Will hold on to the wristlock instead of pushing and escaping.
+- Will attempt to dive for submissions from bad positions
+	+ Will attempt Ezekiel inside closed guard
+	+ Will attempt Ezekiel from top half guard
+	+ Will attempt Ezekiel from bottom half guard
+	+ Will attempt sloppy punch choke under full mount
+	+ Will dive for baseball choke
+		* From standing
+		* Closed Guard
+		* Full Mount
+	+ Will attempt wristlock from anywhere
+- Will allow triangle and armbar then attempt to escape
 
 ### Jujitsu Log
 
