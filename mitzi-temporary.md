@@ -2,7 +2,7 @@
 layout: page
 title: Starbucks Prep
 date: 2023-05-17 12:57
-permalink: m 
+permalink: mit 
 author: Kevin Olega 
 --- 
 mitzi-starbucks-preparation.txt
