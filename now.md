@@ -30,5 +30,6 @@ permalink: now
 
 <hr>
 {% include email-cta.html %}
+{% include email-list.html %}
 {% include now-source.html %}
 {% include last-update.html %}
