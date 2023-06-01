@@ -7,7 +7,7 @@ author: Kevin Olega
 --- 
 
 
-## Market
+### Market
 
 - [ ] Beef steak
 - [ ] Beef tallow
@@ -22,7 +22,7 @@ author: Kevin Olega
 - [ ] Eggs two trays ₱420
 
 
-## Supermarket
+### Supermarket
 
 ### KITCHEN
 
@@ -116,7 +116,7 @@ author: Kevin Olega
 - [ ] Bacon
 - [ ] Bread
 
-## Secondary Groceries
+### Secondary Groceries
 
 ### Supplements
 
