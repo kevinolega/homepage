@@ -7,24 +7,24 @@ author: Kevin Olega
 --- 
 
 
-### Market
+## Market
 
-* Beef steak
-* Beef tallow
-* Beef heart/liver
-* Pork adobo cut
-* Pork belly
-* Boneless bangus ₱140 
-* Shrimp ₱130-150
-* Chicken whole
-* Chicken liver
-* Onion and garlic
-* Eggs two trays ₱420
+- [ ] Beef steak
+- [ ] Beef tallow
+- [ ] Beef heart/liver
+- [ ] Pork adobo cut
+- [ ] Pork belly
+- [ ] Boneless bangus ₱140 
+- [ ] Shrimp ₱130-150
+- [ ] Chicken whole
+- [ ] Chicken liver
+- [ ] Onion and garlic
+- [ ] Eggs two trays ₱420
 
 
-### Supermarket
+## Supermarket
 
-KITCHEN
+### KITCHEN
 
 - [ ] Dish Soap
 - [ ] Sponge
@@ -54,6 +54,7 @@ KITCHEN
 - [ ] Travel tissue
 - [ ] Wet wipes
 - [ ] Bleach
+- [ ] Toilet Cleaner
 
 ### PERSONAL CARE
 
@@ -64,7 +65,7 @@ KITCHEN
 - [ ] Mouthwash
 - [ ] Underpads
 
-## CONDIMENTS
+### CONDIMENTS
 
 - [ ] Salt
 - [ ] Pepper
@@ -76,8 +77,9 @@ KITCHEN
 - [ ] Japanese Curry Mix
 - [ ] Fish Paste
 - [ ] Cooking oil
+- [ ] Smoked Paprika
 
-## PREPARED FOOD
+### PREPARED FOOD
 
 - [ ] Canned Tuna + Mackarel
 - [ ] Canned Corned Beef
@@ -91,20 +93,21 @@ KITCHEN
 - [ ] Instant noodles
 - [ ] Milk, Chocolate Milk or Yakult
 
-## PRODUCE
+### PRODUCE
 
 - [ ] Turmeric
 - [ ] Rice
 
-## MEAT
+### MEAT
 
 - [ ] Chicken Chopped + Liver
 - [ ] Ground beef
+- [ ] Pork Sukiyaki cut
 - [ ] Bacon, Pork Cubes
 - [ ] Beef Short Ribs, Cube, Shank
 - [ ] Lamb, Steak, Shrimp, Salmon
 
-## Mom
+### Mom
 
 - [ ] Baking soda
 - [ ] Coffee
@@ -113,3 +116,67 @@ KITCHEN
 - [ ] Bacon
 - [ ] Bread
 
+## Secondary Groceries
+
+### Supplements
+
+- [ ] Creatine
+- [ ] Whey Protein
+- [ ] BCAA
+- [ ] L-Theanine
+- [ ] Phosphitol serine 
+- [ ] Krill Oil or Fish Oil
+- [ ] Magnesium Glycynate
+
+
+### Vegetable Distributor
+
+- [ ] Eggs
+- [ ] Lemon
+- [ ] Cabbage
+- [ ] Ginger
+- [ ] Garlic
+- [ ] Onion
+- [ ] Potatoes
+- [ ] Corn
+- [ ] Oranges
+
+### Arin’s K-Mart
+
+- [ ] Butane Gas
+- [ ] Korean Ramen
+- [ ] Curry Ramen
+- [ ] Ice Cream
+
+### Facebook Meatshop
+
+- [ ] Beef Cubes
+- [ ] Ground Beef
+- [ ] Beef Trimmings
+
+### Dog City
+
+- [ ] Dog Food - Vitality Value Meal Adult Small Bites
+- [ ] Beef meal
+- [ ] Dentastick
+- [ ] Frontline
+
+### Hanaro Korean Grocery
+
+- [ ] Kimchi 10kg
+- [ ] Sesame Oil
+- [ ] Korean Spam
+- [ ] Korean Curry Powder
+
+### Sing Sing Meat Shop
+
+- [ ] Beef Short Plate
+- [ ] Pork Samgyupsal
+- [ ] Korean Sauce
+
+### Santi’s Deli
+
+- [ ] Olive oil
+- [ ] Smoked Paprika
+- [ ] Parmesan
+- [ ] Kuhn Rikon peeler
