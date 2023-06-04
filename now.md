@@ -22,7 +22,7 @@ permalink: now
 <p>I take care of nine adorable rescue dogs.</p>
 <p>I hang out with <a href="https://www.instagram.com/p/BqF7xlBlPSm/">Fluffy</a>,
 <a href="https://www.instagram.com/p/B4gpVKEn4ZS/">Kuromi</a>, <a href="https://www.instagram.com/p/CXO3HjyBQAz/"> Yuki</a>, Bella, Fidel, and <a href="https://www.instagram.com/p/CNIfQyrH9lS/">Missy</a>, my friend's dog.</p>
-<p>I practice <a href="https://www.instagram.com/olegajitsu/">Brazilian Jiu-Jitsu</a> twice a week and recently <a href="https://www.instagram.com/p/Cqj-VEzpwN4/?utm_source=ig_web_copy_link">took home two silver medals</a> in the Asian Jiu-Jitsu Federation Masters 2 middle-heavy and open weight division.</p>
+<p>I practice <a href="https://olega.org/jj">Brazilian Jiu-Jitsu</a> twice a week and recently <a href="https://www.instagram.com/p/Cqj-VEzpwN4/?utm_source=ig_web_copy_link">took home two silver medals</a> in the Asian Jiu-Jitsu Federation Masters 2 middle-heavy and open weight division.</p>
 <p>I follow a low-carbohydrate, high-protein diet to maintain my muscle mass and meet Jiu-Jitsu competition weight requirements.</p>
 <p>I avoid eating out, consuming carbs, sugar, and eat mostly meat and eggs.</p>
 <p>I recently participated in two long-distance cycling events, riding over 100 km in <a href="https://www.instagram.com/p/ClySU4VJMqb/">Subic</a> and <a href="https://www.instagram.com/p/CoXyuP_B1YW/">Batangas</a>.</p>
