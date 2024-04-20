@@ -4,6 +4,7 @@ title: Life Admin Dashboard
 date: 2024-04-20 08:52
 permalink: ladash 
 author: Kevin Olega 
+noindex: true
 --- 
 ### Quotes
 
