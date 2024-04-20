@@ -5,7 +5,7 @@ date: 2024-04-20 08:52
 permalink: ladash 
 author: Kevin Olega 
 --- 
-## Quotes
+### Quotes
 
 > "Smaller Circles"
 
@@ -16,7 +16,7 @@ author: Kevin Olega
 
 
 
-## Habits
+### Habits
 
 ### Kevin's Daily Tasks
 
@@ -64,7 +64,7 @@ author: Kevin Olega
 - Upload content to TikTok
 
 
-## Bills Reference
+### Bills Reference
 
 | Bill     | Date             | Amount |
 |----------|------------------|--------|
@@ -80,7 +80,7 @@ author: Kevin Olega
 | **Total**|                  |**₱22,250**|
 
 
-## Social Media Growth
+### Social Media Growth
 
 | Platform | Views   |
 |----------|---------|
@@ -89,11 +89,11 @@ author: Kevin Olega
 | Email    | 6,600   |
 | Facebook | 57,000  |
 
-## Targets
+### Targets
 
 - Lower Blood Sugar to 100
 
 
-## Reference
+### Reference
 
 $12.74 or ₱637
