@@ -7,6 +7,10 @@
   <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
   <link rel="stylesheet" href="../css/normalize.css">
   <link rel="stylesheet" href="../css/solo.css">
+{% if page.noindex %}
+<meta name="robots" content="noindex, follow">
+{% endif %}
+
 </head>
 <body>
   <article>
