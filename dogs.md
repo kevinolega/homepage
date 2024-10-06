@@ -2,6 +2,10 @@
 layout: page
 title: Our Rescue Dogs
 date: 2024-10-06 21:13
+description: Support our private dog rescue shelter by donating essential items like dog food, cleaning supplies, or anti-tick medication. Help us care for abandoned and rescued dogs. Visit our contact page to learn how you can contribute.
+categories: ["shelter", "dogs", "rescue"]  # Categories for organizing content
+tags: ["dog shelter", "rescued dogs", "donations", "veterinary care", "anti-tick medication"]  # Tags for better content filtering and SEO
+robots: "index, follow"  # Allow search engines to index and follow this page
 permalink: dog-shelter
 author: Kevin Olega 
 --- 
