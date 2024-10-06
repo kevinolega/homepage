@@ -11,7 +11,7 @@ Thank you for visiting my website. Here are the best ways to contact me.
 
 The best way to stay in touch is by [joining my mailing list](https://sendfox.com/kevinolega).
 
-I love hearing from people, so please email me at [kevin@callcentertrainingtips.com](mailto:kevin@callcentertrainingtips.com) and introduce yourself.
+I love hearing from people, so please email me at [kevin@olega.org](mailto:kevin@olega.org) and introduce yourself.
 
 ### Why? Here are two reasons:
 
