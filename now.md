@@ -19,8 +19,7 @@ permalink: now
 <p>I rarely leave home and say <a href="https://olega.org/n">no to all invitations and requests</a>.</p>
 <p>I spend my free time <a href="http://minimalchanges.com">blogging</a> and <a href="https://photos.app.goo.gl/ikZWBgSuOOxXMjaD3">drawing</a>.</p>
 <p>I share my ideas in my <a href="https://sendfox.com/kevinolega">email newsletter</a> and <a href="https://minimalchanges.com">Minimal Changes blog</a>. I write about my experiences and thoughts on productivity, personal finance, and health.</p>
-<p>I now run a small private dog shelter that cares for eleven resuce dogs. I try to spend as much time as I can with <a href="https://www.instagram.com/p/BqF7xlBlPSm/">Fluffy</a>,
-<a href="https://www.instagram.com/p/B4gpVKEn4ZS/">Kuromi</a>, <a href="https://www.instagram.com/p/CXO3HjyBQAz/"> Yuki</a>, Bella, Fidel, Haru, Tomori, Toru, Syrup, Yui, Jihoo, and Choco.</p>
+<p>I now run a <a href="https://olega.org/dog-shelter">small private dog shelter that cares for eleven rescue dogs</a>.</p>
 <p>I practice <a href="https://olega.org/jj">Brazilian Jiu-Jitsu</a> duiring weekends.</p> 
 <p>I follow a low-carbohydrate, high-protein diet to maintain my muscle mass and meet Jiu-Jitsu competition weight requirements.</p>
 <p>I avoid eating out, consuming carbs, sugar, and eat mostly meat and eggs.</p>
