@@ -57,7 +57,7 @@ author: Kevin Olega
 
 Mitzi
 
-<h1>Warm, Earthy Palette</h1>
+<h3>Warm, Earthy Palette</h3>
 
 <h3>Clothing Neutrals</h3>
 <div class="color-container">
