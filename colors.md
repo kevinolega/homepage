@@ -55,7 +55,7 @@ author: Kevin Olega
 </div>
 
 
-Mitzi
+<p>Mitzi</p>
 
 <h3>Warm, Earthy Palette</h3>
 
