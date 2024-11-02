@@ -6,9 +6,9 @@ permalink: colors
 author: Kevin Olega 
 --- 
 
-<h1>Warm Autumn Palette</h1>
+<h3>Warm Autumn Palette</h3>
 
-<h2>Earthy Hues</h2>
+<h3>Earthy Hues</h3>
 <div class="color-container">
     <div class="color-box" style="background-color: #556B2F; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
     <span class="color-label">Deep Olive:</span> <span>#556B2F</span>
@@ -26,7 +26,7 @@ author: Kevin Olega
     <span class="color-label">Golden Yellow:</span> <span>#DAA520</span>
 </div>
 
-<h2>Warm Jewel Tones</h2>
+<h3>Warm Jewel Tones</h3>
 <div class="color-container">
     <div class="color-box" style="background-color: #317873; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
     <span class="color-label">Rich Teal:</span> <span>#317873</span>
@@ -40,7 +40,7 @@ author: Kevin Olega
     <span class="color-label">Burnt Orange:</span> <span>#CC5500</span>
 </div>
 
-<h2>Neutral Colors</h2>
+<h3>Neutral Colors</h3>
 <div class="color-container">
     <div class="color-box" style="background-color: #FFFDD0; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
     <span class="color-label">Cream:</span> <span>#FFFDD0</span>
@@ -53,3 +53,47 @@ author: Kevin Olega
     <div class="color-box" style="background-color: #A99E93; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
     <span class="color-label">Warm Gray:</span> <span>#A99E93</span>
 </div>
+
+
+Mitzi
+
+<h1>Warm, Earthy Palette</h1>
+
+<h3>Clothing Neutrals</h3>
+<div class="color-container">
+    <div class="color-box" style="background-color: #786255; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Taupe (Your Personal Color):</span> <span>#786255</span>
+</div>
+<div class="color-container">
+    <div class="color-box" style="background-color: #D2B48C; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Beige:</span> <span>#D2B48C</span>
+</div>
+<div class="color-container">
+    <div class="color-box" style="background-color: #A89A8E; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Warm Grey:</span> <span>#A89A8E</span>
+</div>
+
+<h3>Contrast Colors</h3>
+<div class="color-container">
+    <div class="color-box" style="background-color: #6B8E23; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Olive Green:</span> <span>#6B8E23</span>
+</div>
+<div class="color-container">
+    <div class="color-box" style="background-color: #B7410E; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Rust:</span> <span>#B7410E</span>
+</div>
+<div class="color-container">
+    <div class="color-box" style="background-color: #D4A017; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Deep Mustard:</span> <span>#D4A017</span>
+</div>
+
+<h3>Dark Tones</h3>
+<div class="color-container">
+    <div class="color-box" style="background-color: #4B4B4B; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Charcoal:</span> <span>#4B4B4B</span>
+</div>
+<div class="color-container">
+    <div class="color-box" style="background-color: #3D2B1F; width: 96px; height: 96px; margin-right: 10px; display: inline-block; border: 1px solid #000;"></div>
+    <span class="color-label">Chocolate Brown:</span> <span>#3D2B1F</span>
+</div>
+
