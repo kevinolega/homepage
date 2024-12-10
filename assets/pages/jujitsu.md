@@ -92,6 +92,4 @@ author: Kevin Olega
 - [Olegajitsu Instagram](https://instagram.com/olegajitsu)
 - [Olegajitsu YouTube](https://www.youtube.com/channel/UCv_F95sm1LrwNp4ZYqk95SQ)
 - [2023 April 1st ASJJF Competition](https://www.instagram.com/p/Cqj-VEzpwN4/)
-- [2023 Session Notes](https://olega.org/jj-2023)
-- [2022 Session Notes](https://olega.org/jj-2022)
-- [Pre-2022 Notes](https://olega.org/jj-pre2022)
+- [Jiu Jiutsu Diary and Session Notes](https://docs.google.com/document/d/1OOXY2121imj9IxSaa7V1Id7aN1ZtXuiSMId84gAkHAc/edit?usp=sharing)
